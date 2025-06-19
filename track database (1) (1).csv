@@ -1,0 +1,1001 @@
+track_ID,artist_name,genres,followers,artist_popularity,artist_url,track_name,album_name,release_date,duration_ms,explicit,track_popularity,energy,mode
+0,Ariana Grande,pop,98934105,89,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,we can't be friends wait for your love,eternal sunshine,3/8/2024,228639,FALSE,89,0.646,1
+1,Ariana Grande,pop,98934105,85,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,the boy is mine,eternal sunshine,3/8/2024,173639,TRUE,85,0.63,0
+2,Ariana Grande,pop,98934105,83,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,intro ,eternal sunshine,3/8/2024,92400,TRUE,83,0.362,1
+3,Ariana Grande,pop,98934105,80,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,Save Your Tears   - Bonus Track,After Hours (Deluxe),3/20/2020,191013,FALSE,80,0.825,1
+4,Ariana Grande,pop,98934105,79,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,yes and?,eternal sunshine,3/8/2024,214994,TRUE,79,0.775,1
+5,Ariana Grande,pop,98934105,82,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,One Last Time,My Everything - Deluxe,8/22/2014,197266,FALSE,82,0.593,1
+6,Ariana Grande,pop,98934105,78,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,Die For You  - Remix,Starboy (Deluxe),3/14/2023,232857,FALSE,78,0.485,0
+7,Ariana Grande,pop,98934105,82,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,7 rings,"thank u, next",2/8/2019,178626,TRUE,82,0.317,0
+8,Ariana Grande,pop,98934105,70,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman,Dangerous Woman,5/20/2016,235946,FALSE,70,0.602,0
+9,Ariana Grande,pop,98934105,70,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,Into You,Dangerous Woman,5/20/2016,244453,FALSE,70,0.734,1
+10,Adele,british soul,57782264,84,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Easy On Me,30,11/19/2021,224694,FALSE,84,0.366,1
+11,Adele,british soul,57782264,79,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Set Fire to the Rain,21,1/24/2011,242973,FALSE,79,0.67,0
+12,Adele,british soul,57782264,78,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Someone Like You,21,1/24/2011,285240,FALSE,78,0.319,1
+13,Adele,british soul,57782264,79,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Rolling in the Deep,21,1/24/2011,228093,FALSE,79,0.769,1
+14,Adele,british soul,57782264,84,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Skyfall,Skyfall,10/4/2012,286480,FALSE,84,0.552,0
+15,Adele,british soul,57782264,74,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Love In The Dark,25,11/20/2015,285935,FALSE,74,0.341,0
+16,Adele,british soul,57782264,73,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,When We Were Young,25,11/20/2015,290900,FALSE,73,0.595,1
+17,Adele,british soul,57782264,72,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Make You Feel My Love,19,1/28/2008,212040,FALSE,72,0.172,1
+18,Adele,british soul,57782264,70,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Chasing Pavements,19,1/28/2008,210506,FALSE,70,0.47,0
+19,Adele,british soul,57782264,72,https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY,Hello,25,11/20/2015,295502,FALSE,72,0.43,0
+20,A$AP Rocky, rap,14740526,83,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,Sundress,Sundress,11/20/2018,158205,TRUE,83,0.707,1
+21,A$AP Rocky,rap,14740526,83,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,I Smoked Away My Brain,I Smoked Away My Brain ,8/18/2023,190285,TRUE,83,0.652,1
+22,A$AP Rocky, rap,14740526,81,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,Praise The Lord  ,TESTING,5/25/2018,205040,TRUE,81,0.569,0
+23,A$AP Rocky,rap,14740526,79,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,Everyday ,AT.LONG.LAST.A$AP,5/26/2015,260986,TRUE,79,0.661,1
+24,A$AP Rocky, hip hop,14740526,77,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,HIGHJACK,HIGHJACK,8/2/2024,190074,TRUE,77,0.682,1
+25,A$AP Rocky, rap,14740526,77,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,Fashion Killa,LONG.LIVE.A$AP (Deluxe Version),2013,236280,TRUE,77,0.819,1
+26,A$AP Rocky, rap,14740526,76,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,Am I Dreaming ,METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE),6/2/2023,256026,FALSE,76,0.537,0
+27,A$AP Rocky, rap,14740526,76,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,F**kin' Problems ,LONG.LIVE.A$AP (Deluxe Version),2013,233786,TRUE,76,0.693,1
+28,A$AP Rocky, hip hop,14740526,76,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,LVL,LONG.LIVE.A$AP (Deluxe Version),2013,220133,TRUE,76,0.427,0
+29,A$AP Rocky, rap,14740526,72,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,Jukebox Joints ,AT.LONG.LAST.A$AP,5/26/2015,323960,TRUE,72,0.803,0
+30,Taylor Swift,pop,119286617,92,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Cruel Summer,Lover,8/23/2019,178426,FALSE,92,0.702,1
+31,Taylor Swift,pop,119286617,89,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Fortnight ,THE TORTURED POETS DEPARTMENT,4/18/2024,228965,FALSE,89,0.386,1
+32,Taylor Swift,pop,119286617,87,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT,4/18/2024,218004,TRUE,87,0.751,1
+33,Taylor Swift,pop,119286617,87,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,august,folklore,7/24/2020,261922,FALSE,87,0.623,1
+34,Taylor Swift,pop,119286617,86,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Lover,Lover,8/23/2019,221306,FALSE,86,0.543,1
+35,Taylor Swift,pop,119286617,81,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Guilty as Sin?,THE TORTURED POETS DEPARTMENT,4/18/2024,254365,FALSE,81,0.428,1
+36,Taylor Swift,pop,119286617,85,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,cardigan,folklore,7/24/2020,239560,FALSE,85,0.581,0
+37,Taylor Swift,pop,119286617,81,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Down Bad,THE TORTURED POETS DEPARTMENT,4/18/2024,261228,TRUE,81,0.366,1
+38,Taylor Swift,pop,119286617,84,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Anti-Hero,Midnights,10/21/2022,200690,FALSE,84,0.648,1
+39,Taylor Swift,pop,119286617,85,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,Don’t Blame Me,reputation,11/10/2017,236413,FALSE,85,0.534,0
+40,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,91,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,I Wanna Be Yours,AM,9/9/2013,183956,FALSE,91,0.417,0
+41,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,78,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,505,Favourite Worst Nightmare ,4/24/2007,253586,FALSE,78,0.852,1
+42,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,85,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,Do I Wanna Know?,AM,9/9/2013,272394,FALSE,85,0.532,1
+43,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,85,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,Why'd You Only Call Me When You're High?,AM,9/9/2013,161123,FALSE,85,0.631,1
+44,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,80,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,R U Mine?,AM,9/9/2013,201726,FALSE,80,0.758,0
+45,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,69,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,Fluorescent Adolescent,Favourite Worst Nightmare (Standard Version),4/24/2007,173493,FALSE,69,0.813,0
+46,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,77,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,Snap Out Of It,AM,9/9/2013,193030,FALSE,77,0.638,0
+47,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,75,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,Arabella,AM,9/9/2013,207356,FALSE,75,0.558,1
+48,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,74,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,Knee Socks,AM,9/9/2013,257563,FALSE,74,0.542,0
+49,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",26055385,73,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,I Bet You Look Good On The Dancefloor,"Whatever People Say I Am, That's What I'm Not",1/29/2006,173680,FALSE,73,0.948,0
+50,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,76,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Man in the Box,Facelift,8/1/1990,285200,TRUE,76,0.791,1
+51,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,75,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Would? ,Dirt (2022 Remaster),9/29/1992,206773,FALSE,75,0.842,1
+52,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,72,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Nutshell,Jar Of Flies,1994,259200,FALSE,72,0.561,0
+53,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,72,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Rooster ,Dirt (2022 Remaster),9/29/1992,374333,FALSE,72,0.562,1
+54,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,70,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Them Bones ,Dirt (2022 Remaster),9/29/1992,149466,FALSE,70,0.954,1
+55,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,66,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Down In A Hole ,Dirt (2022 Remaster),9/29/1992,338226,FALSE,66,0.818,1
+56,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,65,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,We Die Young,Facelift,8/1/1990,152560,FALSE,65,0.938,1
+57,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,64,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,No Excuses,Jar Of Flies,1994,255573,FALSE,64,0.838,1
+58,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,63,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,Rotten Apple,Jar Of Flies,1994,418466,FALSE,63,0.637,0
+59,Alice In Chains,"alternative metal, alternative rock, grunge, hard rock, nu metal, rock",5216015,62,https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL,I Stay Away,Jar Of Flies,1994,254400,FALSE,62,0.781,1
+60,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,81,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,Amanece,Amanece,12/14/2018,190004,FALSE,81,0.631,0
+61,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,80,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,BBY BOO - REMIX,BBY BOO (REMIX),3/27/2024,275862,TRUE,80,0.617,1
+62,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,78,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,OA,OA,10/13/2023,235200,TRUE,78,0.866,1
+63,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,70,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,China,Emmanuel,5/29/2020,301714,FALSE,70,0.808,1
+64,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,76,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,SERIO CON ESE Q,SERIO CON ESE Q,7/25/2024,247468,TRUE,76,0.775,1
+65,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,76,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,WYA REMIX BLACK AND YELLOW ,WYA REMIX BLACK AND YELLOW (feat. iZaak & Pirlo),6/21/2024,390545,TRUE,76,0.528,0
+66,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,72,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,Razones,Razones,6/27/2024,222727,FALSE,72,0.654,1
+67,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,75,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,Adicto ,Adicto (with Anuel AA & Ozuna),8/22/2019,270740,FALSE,75,0.836,0
+68,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,75,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,Hasta Que Dios Diga,Emmanuel,5/29/2020,246000,TRUE,75,0.765,1
+69,Anuel AA,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",37214358,75,https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66,Ella Quiere Beber - Remix,Ella Quiere Beber (Remix),11/2/2018,219357,FALSE,75,0.665,1
+70,ABBA,"europop, swedish pop",12698682,85,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Dancing Queen,Arrival,1976,230400,FALSE,85,0.87,1
+71,ABBA,"europop, swedish pop",12698682,81,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Gimme! Gimme! Gimme! A Man After Midnight,Voulez-Vous,1979,292613,FALSE,81,0.491,1
+72,ABBA,"europop, swedish pop",12698682,77,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Lay All Your Love On Me,Super Trouper,1980,274466,FALSE,77,0.727,0
+73,ABBA,"europop, swedish pop",12698682,78,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Mamma Mia,Abba,1975,213266,FALSE,78,0.748,1
+74,ABBA,"europop, swedish pop",12698682,76,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Take A Chance On Me,The Album,1977,243933,FALSE,76,0.675,1
+75,ABBA,"europop, swedish pop",12698682,74,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Waterloo,Waterloo,1974,168960,FALSE,74,0.949,1
+76,ABBA,"europop, swedish pop",12698682,74,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,The Winner Takes It All,Super Trouper,1980,294720,FALSE,74,0.788,1
+77,ABBA,"europop, swedish pop",12698682,73,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Super Trouper,Super Trouper,1980,252853,FALSE,73,0.626,1
+78,ABBA,"europop, swedish pop",12698682,71,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Money,Arrival,1976,186426,FALSE,71,0.704,0
+79,ABBA,"europop, swedish pop",12698682,72,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,Chiquitita,Voulez-Vous,1979,326320,FALSE,72,0.554,1
+80,AJR,pov: indie,3427137,66,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,World's Smallest Violin,OK ORCHESTRA,3/26/2021,180742,TRUE,66,0.696,1
+81,AJR,pov: indie,3427137,69,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Bang!,OK ORCHESTRA,3/26/2021,170858,FALSE,69,0.517,0
+82,AJR,pov: indie,3427137,69,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Burn The House Down,The Click - Deluxe Edition,9/21/2018,212373,TRUE,69,0.659,1
+83,AJR,pov: indie,3427137,67,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Yes I'm A Mess,The Maybe Man,11/10/2023,164973,TRUE,67,0.624,0
+84,AJR,pov: indie,3427137,64,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Weak,The Click,6/9/2017,201159,FALSE,64,0.643,1
+85,AJR,pov: indie,3427137,64,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,100 Bad Days,Neotheater,4/26/2019,212783,FALSE,64,0.639,1
+86,AJR,pov: indie,3427137,64,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Way Less Sad,OK ORCHESTRA,3/26/2021,206108,FALSE,64,0.547,1
+87,AJR,pov: indie,3427137,61,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Sober Up,The Click,6/9/2017,218763,FALSE,61,0.619,1
+88,AJR,pov: indie,3427137,64,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Inertia,The Maybe Man,11/10/2023,220933,TRUE,64,0.583,1
+89,AJR,pov: indie,3427137,60,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,Record Player,All You Need Is Time (Deluxe Edition),10/27/2022,149538,FALSE,60,0.686,0
+90,AC/DC,"australian rock, hard rock, rock",29139022,86,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,You Shook Me All Night Long,Back In Black,7/25/1980,210173,FALSE,86,0.767,1
+91,AC/DC,"australian rock, hard rock, rock",29139022,85,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Back In Black,Back In Black,7/25/1980,255493,FALSE,85,0.7,1
+92,AC/DC,"australian rock, hard rock, rock",29139022,85,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Thunderstruck,The Razors Edge,9/24/1990,292880,FALSE,85,0.89,1
+93,AC/DC,"australian rock, hard rock, rock",29139022,85,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Highway to Hell,Highway to Hell,7/27/1979,208400,FALSE,85,0.913,0
+94,AC/DC,"australian rock, hard rock, rock",29139022,79,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,T.N.T.,High Voltage,5/14/1976,214666,FALSE,79,0.759,1
+95,AC/DC,"australian rock, hard rock, rock",29139022,76,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Hells Bells,Back In Black,7/25/1980,312293,FALSE,76,0.873,0
+96,AC/DC,"australian rock, hard rock, rock",29139022,74,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Dirty Deeds Done Dirt Cheap,Dirty Deeds Done Dirt Cheap,9/20/1976,231933,FALSE,74,0.906,0
+97,AC/DC,"australian rock, hard rock, rock",29139022,74,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Shoot to Thrill,Back In Black,7/25/1980,317426,FALSE,74,0.904,1
+98,AC/DC,"australian rock, hard rock, rock",29139022,72,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,It's a Long Way to the Top ,High Voltage,5/14/1976,301226,FALSE,72,0.863,1
+99,AC/DC,"australian rock, hard rock, rock",29139022,70,https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un,Rock N Roll Train,Black Ice,10/20/2008,261506,FALSE,70,0.931,1
+100,Alex G,"philly indie, pov: indie, slacker rock",2328522,80,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Treehouse,Treehouse,1/17/2011,158801,FALSE,80,0.196,0
+101,Alex G,"philly indie, pov: indie, slacker rock",2328522,72,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Mary,Trick,11/5/2012,197733,TRUE,72,0.467,0
+102,Alex G,"philly indie, pov: indie, slacker rock",2328522,73,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Sarah,Trick,11/5/2012,176146,FALSE,73,0.686,0
+103,Alex G,"philly indie, pov: indie, slacker rock",2328522,70,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,16 Mirrors,Trick,11/5/2012,87093,FALSE,70,0.3,1
+104,Alex G,"philly indie, pov: indie, slacker rock",2328522,73,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Things to Do,Race,1/1/2010,157874,FALSE,73,0.525,1
+105,Alex G,"philly indie, pov: indie, slacker rock",2328522,67,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Advice,Trick,11/5/2012,157973,FALSE,67,0.611,1
+106,Alex G,"philly indie, pov: indie, slacker rock",2328522,69,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Race,Race,1/1/2010,223255,TRUE,69,0.641,1
+107,Alex G,"philly indie, pov: indie, slacker rock",2328522,65,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Mis,Rules,1/15/2012,200680,FALSE,65,0.328,1
+108,Alex G,"philly indie, pov: indie, slacker rock",2328522,65,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Change,Trick,11/5/2012,124333,FALSE,65,0.314,0
+109,Alex G,"philly indie, pov: indie, slacker rock",2328522,64,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,Forever,Trick,11/5/2012,149640,FALSE,64,0.569,1
+110,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,76,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Drowning ,The Bigger Artist,9/29/2017,209269,TRUE,76,0.81,0
+111,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,76,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Look Back at It,Hoodie SZN,12/21/2018,179449,TRUE,76,0.587,0
+112,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,74,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Still Think About You,Artist,9/16/2016,246987,TRUE,74,0.646,1
+113,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,74,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,My Shit,Artist,9/16/2016,128156,TRUE,74,0.621,1
+114,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,71,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Jungle,Artist,9/16/2016,174192,TRUE,71,0.52,0
+115,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,71,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Secrets,Artist 2.0 (Deluxe),6/19/2020,133331,TRUE,71,0.648,1
+116,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,69,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Swervin ,Hoodie SZN,12/21/2018,189486,TRUE,69,0.662,1
+117,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,68,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Me and My Guitar,Artist 2.0,2/14/2020,161764,TRUE,68,0.587,0
+118,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,66,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Demons and Angels ,Hoodie SZN,12/21/2018,214592,TRUE,66,0.55,0
+119,A Boogie Wit da Hoodie,"melodic rap, rap, trap",8383447,64,https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I,Slide  ,"Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",1/17/2020,296011,FALSE,64,0.513,1
+120,Addison Rae,social media pop,318765,77,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,Diet Pepsi,Diet Pepsi,8/9/2024,169697,FALSE,77,0.561,1
+121,Addison Rae,social media pop,318765,69,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,Von dutch featuring addison rae and a. g. cook,Von dutch featuring addison rae and a. g. cook,3/22/2024,157328,FALSE,69,0.778,1
+122,Addison Rae,social media pop,318765,60,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,2 die 4 ,AR,8/18/2023,126105,FALSE,60,0.589,0
+123,Addison Rae,social media pop,318765,54,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,Obsessed,Obsessed,3/18/2021,134087,FALSE,54,0.665,1
+124,Addison Rae,social media pop,318765,51,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,I got it bad,AR,8/18/2023,172519,FALSE,51,0.823,1
+125,Addison Rae,social media pop,318765,50,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,Nothing On ,AR,8/18/2023,149552,FALSE,50,0.79,0
+126,Addison Rae,social media pop,318765,46,https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP,it could’ve been u,AR,8/18/2023,135388,TRUE,46,0.725,0
+127,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,84,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Closer,Closer,7/29/2016,244960,FALSE,84,0.524,1
+128,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,78,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Without Me,Manic,1/17/2020,201660,TRUE,78,0.488,1
+129,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,77,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Eastside,FRIENDS KEEP SECRETS,12/7/2018,170769,FALSE,77,0.686,0
+130,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,76,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Him & I ,The Beautiful & Damned,12/15/2017,268866,TRUE,76,0.731,1
+131,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,75,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Boy With Luv ,MAP OF THE SOUL : PERSONA,4/12/2019,229773,FALSE,75,0.862,0
+132,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,75,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Lucky,Lucky,7/26/2024,198546,FALSE,75,0.65,1
+133,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,72,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Be Kind ,Be Kind (with Halsey),5/1/2020,172761,FALSE,72,0.633,1
+134,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,72,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Bad At Love,hopeless fountain kingdom (Deluxe Plus),6/2/2017,181279,FALSE,72,0.751,1
+135,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,71,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Could Have Been Me,Sing 2 (Original Motion Picture Soundtrack),12/17/2021,148732,FALSE,71,0.662,0
+136,Halsey,"electropop, etherpop, indie poptimism, pop",21674751,70,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,Walls Could Talk,hopeless fountain kingdom (Deluxe Plus),6/2/2017,101789,TRUE,70,0.423,1
+137,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,81,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Propuesta Indecente,"Fórmula, Vol. 2 (Deluxe Edition)",2/25/2014,235133,FALSE,81,0.632,1
+138,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,80,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,X SI VOLVEMOS,MAÑANA SERÁ BONITO,2/24/2023,200120,TRUE,80,0.806,0
+139,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,80,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,ÁNGEL,ÁNGEL,7/25/2024,184095,FALSE,80,0.596,1
+140,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,78,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Imitadora,Golden,7/21/2017,234828,FALSE,78,0.709,0
+141,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,78,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Eres Mía,"Fórmula, Vol. 2 (Deluxe Edition)",2/25/2014,250640,FALSE,78,0.729,0
+142,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,76,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Llévame Contigo,Fórmula Vol. 1 (Deluxe Edition),8/27/2012,226400,FALSE,76,0.694,0
+143,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,75,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Cancioncitas de Amor,"Fórmula, Vol. 2 (Deluxe Edition)",2/25/2014,237093,FALSE,75,0.781,1
+144,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,75,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Ella Quiere Beber - Remix,Ella Quiere Beber (Remix),11/2/2018,219357,FALSE,75,0.665,1
+145,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,75,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Sobredosis ,Golden,7/21/2017,198332,FALSE,75,0.639,0
+146,Romeo Santos,"bachata, latin hip hop, latin pop, urbano latino",22006054,74,https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP,Odio ,"Fórmula, Vol. 2 (Deluxe Edition)",2/25/2014,225000,FALSE,74,0.725,0
+147,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,79,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Ella Y Yo - Featuring Don Omar,God's Project,4/26/2005,267786,FALSE,79,0.708,0
+148,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,79,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Dile al Amor,The Last,6/9/2009,229360,FALSE,79,0.605,1
+149,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,79,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,El Perdedor,K.O.B. Live,12/19/2006,215213,FALSE,79,0.589,1
+150,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,78,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Obsesion,We Broke The Rules,6/1/2002,254720,FALSE,78,0.56,0
+151,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,77,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Los Infieles,K.O.B. Live,12/19/2006,257186,FALSE,77,0.716,0
+152,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,76,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,El Malo,The Last,6/9/2009,238720,FALSE,76,0.506,1
+153,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,76,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Volví,Volví,8/3/2021,230125,TRUE,76,0.86,1
+154,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,75,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Un Beso,God's Project,4/26/2005,263346,FALSE,75,0.64,1
+155,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,74,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Enseñame a Olvidar,We Broke The Rules,6/1/2002,348826,FALSE,74,0.491,1
+156,Aventura,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",8480094,73,https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi,Por un Segundo,The Last,6/9/2009,255026,FALSE,73,0.562,0
+157,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,86,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,fukumean,a Gift & a Curse,6/16/2023,125040,TRUE,86,0.622,0
+158,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,85,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,one of wun,One of Wun,5/10/2024,144000,TRUE,85,0.453,0
+159,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,78,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,Jump,TYLA,3/22/2024,147071,FALSE,78,0.716,0
+160,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,80,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,Drip Too Hard ,Drip Harder,10/5/2018,145542,TRUE,80,0.662,0
+161,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,79,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,on one tonight,One of Wun,5/10/2024,90760,TRUE,79,0.727,0
+162,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,78,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,Lemonade ,B4 The Storm,8/28/2020,195428,TRUE,78,0.658,0
+163,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,73,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,prada dem ,One of Wun,5/10/2024,165346,TRUE,73,0.595,0
+164,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,74,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,hakuna matata,One of Wun,5/10/2024,127853,TRUE,74,0.726,0
+165,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,74,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,P power ,DS4EVER,1/13/2022,193346,TRUE,74,0.591,1
+166,Gunna,"atl hip hop, melodic rap, rap, trap",7819110,73,https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ,Drip or Drown,Drip or Drown,11/30/2017,126168,TRUE,73,0.478,0
+167,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,83,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,Complicated,Let Go,6/4/2002,244506,FALSE,83,0.776,1
+168,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,78,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,I'm with You,Let Go,6/4/2002,223066,FALSE,78,0.406,1
+169,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,77,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,Sk8er Boi,Let Go,6/4/2002,204000,FALSE,77,0.9,1
+170,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,75,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,Girlfriend,The Best Damn Thing (Expanded Edition),4/17/2007,216600,TRUE,75,0.959,1
+171,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,75,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,What the Hell,Goodbye Lullaby (Expanded Edition),3/8/2011,220706,FALSE,75,0.926,0
+172,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,72,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,My Happy Ending,Under My Skin,2004,242413,TRUE,72,0.936,1
+173,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,68,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,When You're Gone,The Best Damn Thing (Expanded Edition),4/17/2007,240493,FALSE,68,0.719,0
+174,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,68,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,Here's to Never Growing Up,Avril Lavigne (Expanded Edition),11/1/2013,214320,TRUE,68,0.873,1
+175,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,66,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,Wish You Were Here,Goodbye Lullaby (Expanded Edition),3/8/2011,225760,TRUE,66,0.865,1
+176,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",11207940,65,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j,Nobody's Home,Under My Skin,2004,212413,FALSE,65,0.907,0
+177,Akon,dance pop,4816768,84,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Smack That,Konvicted,1/1/2006,212360,TRUE,84,0.741,0
+178,Akon,dance pop,4816768,78,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Lonely,Trouble Deluxe Edition,1/1/2005,235800,TRUE,78,0.526,0
+179,Akon,dance pop,4816768,77,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Right Now ,Freedom,1/1/2008,240746,FALSE,77,0.857,0
+180,Akon,dance pop,4816768,73,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,I Wanna Love You,Konvicted,1/1/2006,247066,TRUE,73,0.454,1
+181,Akon,dance pop,4816768,74,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Don't Matter,Konvicted,1/1/2006,293053,TRUE,74,0.443,1
+182,Akon,dance pop,4816768,72,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Chammak Challo,Ra-One,9/16/2011,227091,FALSE,72,0.879,0
+183,Akon,dance pop,4816768,68,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Locked Up,Trouble Deluxe Edition,1/1/2005,235066,TRUE,68,0.568,1
+184,Akon,dance pop,4816768,70,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Beautiful,Freedom,1/1/2008,312986,FALSE,70,0.945,0
+185,Akon,dance pop,4816768,67,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Sorry Blame It On Me,Konvicted (Complete Edition),3/4/2022,295746,FALSE,67,0.698,1
+186,Akon,dance pop,4816768,65,https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV,Be With You,Freedom,1/1/2008,231013,FALSE,65,0.738,0
+187,Avenged Sevenfold,alternative metal,8135038,76,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Hail to the King,Hail to the King,8/23/2013,305906,FALSE,76,0.916,0
+188,Avenged Sevenfold,alternative metal,8135038,75,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,A Little Piece of Heaven,Avenged Sevenfold,10/26/2007,480706,TRUE,75,0.881,0
+189,Avenged Sevenfold,alternative metal,8135038,73,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Afterlife,Avenged Sevenfold,10/26/2007,352426,FALSE,73,0.949,0
+190,Avenged Sevenfold,alternative metal,8135038,70,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Nightmare,Nightmare,7/23/2010,374453,TRUE,70,0.949,1
+191,Avenged Sevenfold,alternative metal,8135038,72,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Dear God,Avenged Sevenfold,10/26/2007,393480,FALSE,72,0.772,1
+192,Avenged Sevenfold,alternative metal,8135038,64,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,So Far Away,Nightmare,7/23/2010,326813,FALSE,64,0.703,0
+193,Avenged Sevenfold,alternative metal,8135038,70,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Bat Country,City of Evil,6/6/2005,311813,FALSE,70,0.968,1
+194,Avenged Sevenfold,alternative metal,8135038,70,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Gunslinger,Avenged Sevenfold,10/26/2007,251533,FALSE,70,0.729,0
+195,Avenged Sevenfold,alternative metal,8135038,69,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Seize the Day,City of Evil,6/6/2005,334066,FALSE,69,0.802,1
+196,Avenged Sevenfold,alternative metal,8135038,68,https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs,Shepherd of Fire,Hail to the King,8/23/2013,323800,FALSE,68,0.906,1
+197,Arijit Singh,"filmi, modern bollywood",119428689,82,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Sajni ,"Sajni (From ""Laapataa Ladies"")",2/12/2024,170044,FALSE,82,0.413,1
+198,Arijit Singh,"filmi, modern bollywood",119428689,79,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Satranga ,"Satranga (From ""ANIMAL"")",10/27/2023,271169,FALSE,79,0.405,1
+199,Arijit Singh,"filmi, modern bollywood",119428689,74,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Chaleya,Jawan,9/5/2023,200373,FALSE,74,0.845,1
+200,Arijit Singh,"filmi, modern bollywood",119428689,73,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,O Maahi,Dunki,12/20/2023,233453,FALSE,73,0.669,1
+201,Arijit Singh,"filmi, modern bollywood",119428689,77,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Tujhe Kitna Chahne Lage ,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",5/31/2019,284779,FALSE,77,0.396,1
+202,Arijit Singh,"filmi, modern bollywood",119428689,78,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Soulmate,Ek Tha Raja,3/18/2024,213599,FALSE,78,0.553,1
+203,Arijit Singh,"filmi, modern bollywood",119428689,78,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Heeriye ,Heeriye (feat. Arijit Singh),7/25/2023,194857,FALSE,78,0.494,0
+204,Arijit Singh,"filmi, modern bollywood",119428689,71,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Apna Bana Le,Bhediya (Original Motion Picture Soundtrack),12/6/2022,261702,FALSE,71,0.562,1
+205,Arijit Singh,"filmi, modern bollywood",119428689,59,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Tum Kya Mile Pt. 2,Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack),5/15/2024,277500,FALSE,59,0.726,1
+206,Arijit Singh,"filmi, modern bollywood",119428689,62,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,Ve Kamleya,Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack),5/15/2024,246988,FALSE,62,0.658,1
+207,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,80,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Leave The Door Open,An Evening With Silk Sonic,11/11/2021,242096,FALSE,80,0.616,1
+208,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,78,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,places to be,places to be,5/31/2024,226677,TRUE,78,0.878,1
+209,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,72,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Smokin Out The Window,An Evening With Silk Sonic,11/11/2021,197442,FALSE,72,0.618,1
+210,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,70,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,After Last Night ,An Evening With Silk Sonic,11/11/2021,249444,FALSE,70,0.703,0
+211,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,68,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Skate,An Evening With Silk Sonic,11/11/2021,203122,FALSE,68,0.598,1
+212,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,65,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Love's Train,An Evening With Silk Sonic,11/11/2021,307014,FALSE,65,0.605,0
+213,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,62,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Come Down,Malibu,1/15/2016,169726,TRUE,62,0.898,1
+214,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,64,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Coast ,Coast,7/29/2022,166720,FALSE,64,0.832,0
+215,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,58,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Fly As Me,An Evening With Silk Sonic,11/11/2021,219389,FALSE,58,0.627,1
+216,Anderson .Paak,"escape room, hip hop, indie soul, neo soul",2559747,56,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,Dance With The Devil,I'll Always Come Find You,7/19/2024,210804,FALSE,56,0.574,0
+217,Amy Winehouse,"british soul, neo soul",9015775,81,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Back To Black,Back To Black (Deluxe Edition),2006,241293,TRUE,81,0.422,0
+218,Amy Winehouse,"british soul, neo soul",9015775,74,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Rehab,Back To Black (Deluxe Edition),2006,214946,FALSE,74,0.558,1
+219,Amy Winehouse,"british soul, neo soul",9015775,75,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Valerie - Live At BBC Radio 1 Live Lounge London / 2007,Back To Black (Deluxe Edition),2006,233733,FALSE,75,0.371,0
+220,Amy Winehouse,"british soul, neo soul",9015775,73,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Tears Dry On Their Own,Back To Black (Deluxe Edition),2006,186440,TRUE,73,0.543,0
+221,Amy Winehouse,"british soul, neo soul",9015775,73,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,You Know I'm No Good,Back To Black (Deluxe Edition),2006,257186,FALSE,73,0.495,1
+222,Amy Winehouse,"british soul, neo soul",9015775,69,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Love Is A Losing Game,Back To Black (Deluxe Edition),2006,155413,FALSE,69,0.294,1
+223,Amy Winehouse,"british soul, neo soul",9015775,66,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Me & Mr Jones,Back To Black (Deluxe Edition),2006,153173,TRUE,66,0.486,1
+224,Amy Winehouse,"british soul, neo soul",9015775,67,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Stronger Than Me,AMY (Original Motion Picture Soundtrack),10/30/2015,214493,FALSE,67,0.458,0
+225,Amy Winehouse,"british soul, neo soul",9015775,66,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,He Can Only Hold Her,Back To Black (Deluxe Edition),2006,166400,FALSE,66,0.504,1
+226,Amy Winehouse,"british soul, neo soul",9015775,66,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,Our Day Will Come,Lioness: Hidden Treasures,1/1/2011,169373,FALSE,66,0.634,0
+227,Artemas,,875287,80,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,i like the way you kiss me,yustyna,7/11/2024,142514,FALSE,80,0.946,1
+228,Artemas,,875287,83,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,if u think i'm pretty,pretty,2/9/2024,128205,TRUE,83,0.622,1
+229,Artemas,,875287,74,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,cross my heart,pretty,2/9/2024,146216,FALSE,74,0.462,1
+230,Artemas,,875287,69,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,dirty little secret,yustyna,7/11/2024,181346,FALSE,69,0.866,0
+231,Artemas,,875287,67,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,wet dreams,yustyna,7/11/2024,99750,FALSE,67,0.718,1
+232,Artemas,,875287,69,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,i like the way you kiss me - southstar remix,i like the way you kiss me (remixes),4/5/2024,137986,FALSE,69,0.876,1
+233,Artemas,,875287,64,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,i like the way you kiss me - burnt,i like the way you kiss me (burnt),3/26/2024,162406,FALSE,64,0.94,1
+234,Artemas,,875287,64,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,prettygrunge.wav,just want u to feel something,12/1/2023,119104,FALSE,64,0.67,1
+235,Artemas,,875287,63,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,i always kinda knew you’d be the death of me,yustyna,7/11/2024,136099,FALSE,63,0.915,0
+236,Artemas,,875287,24,https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2,So Stunning,So Stunning,7/19/2024,138228,TRUE,24,0.806,0
+237,Adrianne Lenker,"countrygaze, indie pop, small room",567595,77,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,anything,songs,10/23/2020,202047,FALSE,77,0.291,1
+238,Adrianne Lenker,"countrygaze, indie pop, small room",567595,74,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,not a lot just forever,songs,10/23/2020,250198,FALSE,74,0.269,1
+239,Adrianne Lenker,"countrygaze, indie pop, small room",567595,74,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,half return,songs,10/23/2020,128700,FALSE,74,0.382,1
+240,Adrianne Lenker,"countrygaze, indie pop, small room",567595,69,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,forwards beckon rebound,songs,10/23/2020,189464,FALSE,69,0.243,1
+241,Adrianne Lenker,"countrygaze, indie pop, small room",567595,63,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,ingydar,songs,10/23/2020,248386,FALSE,63,0.284,0
+242,Adrianne Lenker,"countrygaze, indie pop, small room",567595,62,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,Jonathan,a-sides,5/1/2014,128853,FALSE,62,0.276,1
+243,Adrianne Lenker,"countrygaze, indie pop, small room",567595,59,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,Indiana,a-sides,5/1/2014,157440,FALSE,59,0.173,1
+244,Adrianne Lenker,"countrygaze, indie pop, small room",567595,56,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,Sadness As A Gift,Bright Future,3/22/2024,259015,FALSE,56,0.277,1
+245,Adrianne Lenker,"countrygaze, indie pop, small room",567595,58,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,zombie girl,songs,10/23/2020,164224,FALSE,58,0.103,1
+246,Adrianne Lenker,"countrygaze, indie pop, small room",567595,55,https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY,Free Treasure,Bright Future,3/22/2024,215514,FALSE,55,0.196,1
+247,ATEEZ,"k-pop, k-pop boy group",4174753,75,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,WORK,GOLDEN HOUR : Part.1,5/31/2024,172381,FALSE,75,0.752,0
+248,ATEEZ,"k-pop, k-pop boy group",4174753,70,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,BOUNCY K-HOT CHILLI PEPPERS,THE WORLD EP.2 : OUTLAW,6/16/2023,187310,FALSE,70,0.896,1
+249,ATEEZ,"k-pop, k-pop boy group",4174753,69,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,Crazy Form,THE WORLD EP.FIN : WILL,12/1/2023,198365,FALSE,69,0.791,0
+250,ATEEZ,"k-pop, k-pop boy group",4174753,68,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,Hush-Hush,Hush-Hush,7/1/2024,205013,FALSE,68,0.831,0
+251,ATEEZ,"k-pop, k-pop boy group",4174753,65,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,HALAZIA,SPIN OFF : FROM THE WITNESS,12/30/2022,197025,FALSE,65,0.884,0
+252,ATEEZ,"k-pop, k-pop boy group",4174753,64,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,Blind,GOLDEN HOUR : Part.1,5/31/2024,198736,FALSE,64,0.651,0
+253,ATEEZ,"k-pop, k-pop boy group",4174753,64,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,Guerrilla,THE WORLD EP.1 : MOVEMENT,7/29/2022,207921,FALSE,64,0.89,1
+254,ATEEZ,"k-pop, k-pop boy group",4174753,64,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,Deja Vu,ZERO : FEVER Part.3,9/13/2021,196670,FALSE,64,0.835,0
+255,ATEEZ,"k-pop, k-pop boy group",4174753,62,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,WONDERLAND,TREASURE EP.FIN : All To Action,10/8/2019,199013,FALSE,62,0.964,0
+256,ATEEZ,"k-pop, k-pop boy group",4174753,62,https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L,IT's You ,THE WORLD EP.FIN : WILL,12/1/2023,209538,FALSE,62,0.709,1
+257,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,77,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Dear Maria Count Me In,"So Wrong, It's Right",9/25/2007,182826,FALSE,77,0.895,1
+258,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,68,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Monsters,"Wake Up, Sunshine",4/3/2020,174067,TRUE,68,0.845,0
+259,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,62,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Weightless,Nothing Personal (Deluxe Version),7/7/2009,198000,TRUE,62,0.923,1
+260,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,61,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Monsters,Monsters (feat. Demi Lovato and blackbear),12/4/2020,174424,TRUE,61,0.787,0
+261,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,45,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Dear Maria Count Me In - ATL's Version,The Forever Sessions - Vol. 1,8/23/2024,187266,FALSE,45,0.837,1
+262,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,60,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Fake As Hell,Fake As Hell (with Avril Lavigne),9/15/2023,179166,TRUE,60,0.911,0
+263,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,57,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Remembering Sunday,"So Wrong, It's Right",9/25/2007,256733,FALSE,57,0.602,0
+264,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,53,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Sleepwalking,Tell Me I'm Alive,3/17/2023,187344,FALSE,53,0.671,0
+265,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,56,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,A Love Like War ,Don't Panic: It's Longer Now!,9/30/2013,213740,FALSE,56,0.987,0
+266,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",3042816,55,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo,Break Your Little Heart,Nothing Personal (Deluxe Version),7/7/2009,171706,FALSE,55,0.951,1
+267,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,77,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,X'CLUSIVO ,X'CLUSIVO (REMIX),2/29/2024,208133,TRUE,77,0.552,1
+268,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,70,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,La Jumpa,Sr. Santos,12/1/2022,255693,TRUE,70,0.703,1
+269,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,76,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,Tu No Vive Asi,Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),9/30/2016,264000,TRUE,76,0.514,0
+270,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,65,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,Hace Mucho Tiempo,"Sentimiento, Elegancia y Maldad",11/19/2013,171333,FALSE,65,0.782,0
+271,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,75,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,Pa' Que La Pases Bien,El Fenomeno,12/8/2008,214120,FALSE,75,0.755,0
+272,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,74,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,ALV,"Sentimiento, Elegancia y Más Maldad",11/17/2023,224285,FALSE,74,0.831,1
+273,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,74,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,Si Se Da - Remix,Si Se da Remix,8/2/2019,332240,TRUE,74,0.672,0
+274,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,73,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,Me Prefieres A Mi,Me Prefieres A Mi,1/1/2012,195657,FALSE,73,0.604,1
+275,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,72,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,Me Ama Me Odia,Me Ama Me Odia,9/1/2016,326936,FALSE,72,0.603,0
+276,Arcángel,"latin hip hop, reggaeton, trap latino, urbano latino",15017847,67,https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X,PESO COMPLETO,ÉXODO,6/20/2024,193714,TRUE,67,0.701,1
+277,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,68,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,The Downfall Of Us All,Homesick,2/3/2009,209093,FALSE,68,0.881,1
+278,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,67,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,If It Means A Lot To You,Homesick,2/3/2009,243226,FALSE,67,0.536,1
+279,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,66,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,All I Want,What Separates Me From You,11/16/2010,202640,FALSE,66,0.981,0
+280,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,64,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,I'm Made Of Wax Larry What Are You Made Of?,Homesick,2/3/2009,180840,FALSE,64,0.97,0
+281,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,64,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,All Signs Point To Lauderdale,What Separates Me From You,11/16/2010,197200,TRUE,64,0.983,1
+282,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,63,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,Have Faith In Me,Homesick,2/3/2009,188813,FALSE,63,0.933,1
+283,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,62,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,Mr. Highway's Thinking About The End,Homesick,2/3/2009,255826,FALSE,62,0.916,0
+284,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,61,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,Since U Been Gone,For Those Who Have Heart (Deluxe Edition),1/22/2007,198266,FALSE,61,0.951,1
+285,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,61,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,Miracle,Miracle,7/21/2022,243977,TRUE,61,0.917,1
+286,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",2354675,58,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN,Resentment,You're Welcome,3/5/2021,227266,FALSE,58,0.955,0
+287,Alicia Keys,"neo soul, pop, r&b",11997483,83,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,If I Ain't Got You,The Diary Of Alicia Keys,12/2/2003,228706,FALSE,83,0.444,1
+288,Alicia Keys,"neo soul, pop, r&b",11997483,81,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,My Boo,Confessions (Expanded Edition),3/23/2004,223440,FALSE,81,0.507,1
+289,Alicia Keys,"neo soul, pop, r&b",11997483,74,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,No One,No One (Remixes),10/9/2007,254523,FALSE,74,0.552,0
+290,Alicia Keys,"neo soul, pop, r&b",11997483,76,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,Fallin',Songs In A Minor,6/5/2001,210200,FALSE,76,0.609,0
+291,Alicia Keys,"neo soul, pop, r&b",11997483,75,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,Girl on Fire,Girl on Fire (Remixes) - EP,11/18/2012,224920,FALSE,75,0.706,1
+292,Alicia Keys,"neo soul, pop, r&b",11997483,70,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,Un-thinkable ,Un-thinkable (I'm Ready) (feat. Drake) [Remix],5/28/2010,282026,FALSE,70,0.603,1
+293,Alicia Keys,"neo soul, pop, r&b",11997483,69,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,Empire State of Mind  Broken Down,The Element Of Freedom,12/15/2009,216480,FALSE,69,0.368,1
+294,Alicia Keys,"neo soul, pop, r&b",11997483,66,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,You Don't Know My Name,The Diary Of Alicia Keys,12/2/2003,366733,FALSE,66,0.663,1
+295,Alicia Keys,"neo soul, pop, r&b",11997483,66,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,Un-thinkable ,The Element Of Freedom,12/15/2009,249240,FALSE,66,0.505,1
+296,Alicia Keys,"neo soul, pop, r&b",11997483,64,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,I’m Not The Only One ,In The Lonely Hour - 10th Anniversary Edition,8/2/2024,220253,FALSE,64,0.444,1
+297,Ayesha Erotica,,1231864,73,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Emo Boy,Big Juicy,4/20/2016,154096,TRUE,73,0.698,0
+298,Ayesha Erotica,,1231864,70,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Yummy,Fresh Meat,10/25/2017,160940,TRUE,70,0.659,0
+299,Ayesha Erotica,,1231864,69,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,BREAK A NECK ,BREAK A NECK (w/ Ayesha Erotica),4/17/2024,116330,TRUE,69,0.729,1
+300,Ayesha Erotica,,1231864,69,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,THE BADDEST  [feat. Ayesha Erotica],THE BADDEST (BADDER) [feat. Ayesha Erotica],7/19/2024,143994,TRUE,69,0.892,1
+301,Ayesha Erotica,,1231864,68,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Yummy - Righteous Remix,Yummy (Righteous Remix),12/1/2023,164001,TRUE,68,0.578,0
+302,Ayesha Erotica,,1231864,68,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Literal Legend,Fresh Meat,10/25/2017,164728,TRUE,68,0.81,1
+303,Ayesha Erotica,,1231864,63,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Big Juicy,Big Juicy,4/20/2016,205191,TRUE,63,0.47,1
+304,Ayesha Erotica,,1231864,63,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Sixteen,Big Juicy,4/20/2016,131982,TRUE,63,0.734,1
+305,Ayesha Erotica,,1231864,62,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Vacation Bible School,Vacation Bible School,12/31/2018,291692,TRUE,62,0.605,0
+306,Ayesha Erotica,,1231864,62,https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco,Where You @,Barely Legal,6/16/2016,164307,TRUE,62,0.735,1
+307,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,82,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,Trance ,HEROES & VILLAINS,12/2/2022,194786,TRUE,82,0.552,0
+308,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,82,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,It's Up ,100 GIGS,8/10/2024,278000,TRUE,82,0.719,1
+309,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,57,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,RIVER,RIVER,8/3/2024,247272,TRUE,57,0.415,1
+310,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,70,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,pick up the phone,pick up the phone,6/3/2016,252262,TRUE,70,0.716,0
+311,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,73,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,Go Crazy,Slime & B,5/8/2020,176960,TRUE,73,0.578,0
+312,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,72,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,Hot  [feat. Gunna and Travis Scott],So Much Fun (Deluxe),12/20/2019,279906,TRUE,72,0.631,0
+313,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,71,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,Way 2 Sexy ,Certified Lover Boy,9/3/2021,257604,TRUE,71,0.597,0
+314,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,71,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,SKITZO ,UTOPIA,7/28/2023,366592,TRUE,71,0.551,0
+315,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,65,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,The London ,So Much Fun,8/16/2019,200186,TRUE,65,0.517,0
+316,Young Thug,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",10288468,69,https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn,Digits,Slime Season 3,3/25/2016,176386,TRUE,69,0.632,0
+317,Avicii,"dance pop, edm, pop, pop dance",22976158,86,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Wake Me Up,TRUE,1/1/2013,247426,FALSE,86,0.783,1
+318,Avicii,"dance pop, edm, pop, pop dance",22976158,85,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,The Nights,The Days / Nights,1/1/2014,176658,FALSE,85,0.835,1
+319,Avicii,"dance pop, edm, pop, pop dance",22976158,80,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Waiting For Love,Stories,10/2/2015,230613,FALSE,80,0.736,0
+320,Avicii,"dance pop, edm, pop, pop dance",22976158,79,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Levels - Radio Edit,Levels,10/28/2011,199906,FALSE,79,0.889,0
+321,Avicii,"dance pop, edm, pop, pop dance",22976158,78,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Hey Brother,TRUE,1/1/2013,255093,FALSE,78,0.78,0
+322,Avicii,"dance pop, edm, pop, pop dance",22976158,77,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Without You ,AVĪCI - 01,8/10/2017,181672,TRUE,77,0.858,1
+323,Avicii,"dance pop, edm, pop, pop dance",22976158,73,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Addicted To You,TRUE,1/1/2013,148386,FALSE,73,0.785,0
+324,Avicii,"dance pop, edm, pop, pop dance",22976158,62,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,I Could Be The One  - Radio Edit,I Could Be The One [Avicii vs Nicky Romero],1/1/2012,208320,FALSE,62,0.79,0
+325,Avicii,"dance pop, edm, pop, pop dance",22976158,70,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,SOS ,TIM,6/6/2019,157202,FALSE,70,0.645,0
+326,Avicii,"dance pop, edm, pop, pop dance",22976158,70,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,Lonely Together ,AVĪCI - 01,8/10/2017,181812,FALSE,70,0.666,1
+327,aespa,k-pop girl group,6165098,75,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Supernova,Armageddon - The 1st Album,5/27/2024,178880,FALSE,75,0.747,0
+328,aespa,k-pop girl group,6165098,78,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Armageddon,Armageddon - The 1st Album,5/27/2024,196466,FALSE,78,0.789,1
+329,aespa,k-pop girl group,6165098,81,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Drama,Drama - The 4th Mini Album,11/10/2023,214973,FALSE,81,0.872,0
+330,aespa,k-pop girl group,6165098,70,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Spicy,iScreaM Vol.26 : Spicy Remix,9/15/2023,197040,FALSE,70,0.898,0
+331,aespa,k-pop girl group,6165098,72,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Savage,Savage - The 1st Mini Album,10/5/2021,238143,FALSE,72,0.879,1
+332,aespa,k-pop girl group,6165098,71,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Next Level,Next Level,5/17/2021,221573,FALSE,71,0.852,0
+333,aespa,k-pop girl group,6165098,67,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Black Mamba,Girls - The 2nd Mini Album,7/8/2022,174933,FALSE,67,0.912,1
+334,aespa,k-pop girl group,6165098,70,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Hold On Tight,Hold On Tight,3/30/2023,149718,FALSE,70,0.816,1
+335,aespa,k-pop girl group,6165098,61,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Live My Life,Armageddon - The 1st Album,5/27/2024,159133,FALSE,61,0.879,1
+336,aespa,k-pop girl group,6165098,68,https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE,Hot Mess,Hot Mess,7/3/2024,192375,FALSE,68,0.602,1
+337,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,78,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,ESTE,ESTE,7/4/2024,162058,FALSE,78,0.682,1
+338,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,75,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,4K,4K,3/12/2020,201500,FALSE,75,0.893,0
+339,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,75,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,Tacata ,Tacata (Remix),12/22/2023,156716,TRUE,75,0.678,1
+340,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,73,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,La Mamá de la Mamá,SAGITARIO,11/22/2022,219000,FALSE,73,0.927,1
+341,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,70,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,Los Aparatos,SAGITARIO,11/22/2022,232843,FALSE,70,0.878,1
+342,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,71,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,BEBÉ,Mis Manos,3/4/2021,197284,FALSE,71,0.72,1
+343,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,72,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,La Romana,X 100PRE,12/23/2018,300579,TRUE,72,0.726,1
+344,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,69,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,Suave ,El Hombre,11/2/2018,305526,FALSE,69,0.909,1
+345,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,69,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,PLEBADA,PLEBADA,6/8/2023,221739,FALSE,69,0.976,1
+346,El Alfa,"dembow, rap dominicano, trap latino, urbano latino",3571462,69,https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm,Besalo,El Androide,5/15/2020,163265,FALSE,69,0.79,0
+347,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,73,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Ironic - 2015 Remaster,Jagged Little Pill - 2015 Remaster,1995,230000,FALSE,73,0.582,1
+348,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,68,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,You Oughta Know - 2015 Remaster,Jagged Little Pill - 2015 Remaster,1995,249493,TRUE,68,0.834,1
+349,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,68,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Hand in My Pocket - 2015 Remaster,Jagged Little Pill - 2015 Remaster,1995,222013,FALSE,68,0.655,1
+350,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,64,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Head over Feet - 2015 Remaster,Jagged Little Pill - 2015 Remaster,1995,267293,FALSE,64,0.808,1
+351,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,64,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Thank U,Supposed Former Infatuation Junkie,10/16/1998,258773,FALSE,64,0.616,1
+352,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,61,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,You Learn - 2015 Remaster,Jagged Little Pill - 2015 Remaster,1995,239640,FALSE,61,0.706,1
+353,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,57,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Uninvited,The Collection (Standard Edition),11/11/2005,276200,FALSE,57,0.538,1
+354,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,59,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Hands Clean,Under Rug Swept,2/25/2002,269400,FALSE,59,0.82,1
+355,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,55,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,All I Really Want - 2015 Remaster,Jagged Little Pill - 2015 Remaster,1995,284093,FALSE,55,0.896,0
+356,Alanis Morissette,"canadian pop, canadian singer-songwriter, lilith, neo mellow, pop rock, singer-songwriter",2887083,53,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi,Crazy - James Michael Mix,The Collection (Standard Edition),11/11/2005,218760,FALSE,53,0.899,1
+357,AURORA,"art pop, norwegian pop",3764619,71,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Runaway,All My Demons Greeting Me as a Friend (Deluxe),2014,248826,FALSE,71,0.276,1
+358,AURORA,"art pop, norwegian pop",3764619,73,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Into the Unknown,Frozen 2 - Original Motion Picture Soundtrack/Deluxe Edition,11/15/2019,194848,FALSE,73,0.405,0
+359,AURORA,"art pop, norwegian pop",3764619,62,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Cure For Me,The Gods We Can Touch,1/21/2022,201640,FALSE,62,0.738,0
+360,AURORA,"art pop, norwegian pop",3764619,60,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Running with the Wolves,All My Demons Greeting Me as a Friend (Deluxe),2014,194760,FALSE,60,0.528,1
+361,AURORA,"art pop, norwegian pop",3764619,65,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Butterflies ,Butterflies (feat. AURORA),1/27/2023,130666,FALSE,65,0.157,0
+362,AURORA,"art pop, norwegian pop",3764619,55,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Starvation,What Happened To The Heart?,6/7/2024,207613,FALSE,55,0.808,0
+363,AURORA,"art pop, norwegian pop",3764619,54,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,To Be Alright,What Happened To The Heart?,6/7/2024,245640,FALSE,54,0.606,1
+364,AURORA,"art pop, norwegian pop",3764619,52,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Some Type Of Skin,What Happened To The Heart?,6/7/2024,191333,FALSE,52,0.557,1
+365,AURORA,"art pop, norwegian pop",3764619,52,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Your Blood,What Happened To The Heart?,6/7/2024,247493,FALSE,52,0.696,1
+366,AURORA,"art pop, norwegian pop",3764619,52,https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N,Everything Matters,The Gods We Can Touch,1/21/2022,213906,FALSE,52,0.323,0
+367,Asake,"afrobeats, nigerian pop",3930967,73,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Active,Lungu Boy,8/8/2024,172597,TRUE,73,0.64,0
+368,Asake,"afrobeats, nigerian pop",3930967,69,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Wave,Lungu Boy,8/8/2024,205879,FALSE,69,0.903,1
+369,Asake,"afrobeats, nigerian pop",3930967,74,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,MMS,Lungu Boy,8/8/2024,219628,FALSE,74,0.634,0
+370,Asake,"afrobeats, nigerian pop",3930967,73,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Lonely At The Top,Work Of Art,6/15/2023,157714,FALSE,73,0.801,0
+371,Asake,"afrobeats, nigerian pop",3930967,70,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Bandana,Playboy,8/4/2022,178225,TRUE,70,0.605,1
+372,Asake,"afrobeats, nigerian pop",3930967,66,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Stubborn ,Stubborn,6/21/2024,176333,FALSE,66,0.757,0
+373,Asake,"afrobeats, nigerian pop",3930967,70,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Happiness ,Happiness (feat. Asake & Gunna),12/7/2023,174743,FALSE,70,0.744,0
+374,Asake,"afrobeats, nigerian pop",3930967,69,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Terminator,Mr. Money With The Vibe,9/7/2022,155897,FALSE,69,0.657,1
+375,Asake,"afrobeats, nigerian pop",3930967,70,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Remember,Work Of Art,6/15/2023,182142,FALSE,70,0.675,1
+376,Asake,"afrobeats, nigerian pop",3930967,68,https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg,Amapiano,Work Of Art,6/15/2023,165000,TRUE,68,0.599,0
+377,Alan Jackson,country,2810955,74,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Chattahoochee,A Lot About Livin' (And A Little 'Bout Love),10/9/1992,148160,FALSE,74,0.706,1
+378,Alan Jackson,country,2810955,71,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,It's Five O'Clock Somewhere,Greatest Hits Volume II,10/9/2003,229800,FALSE,71,0.774,1
+379,Alan Jackson,country,2810955,70,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Little Bitty,Everything I Love,9/30/1996,158626,FALSE,70,0.818,1
+380,Alan Jackson,country,2810955,65,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Drive ,Drive,1/15/2002,242733,FALSE,65,0.579,1
+381,Alan Jackson,country,2810955,66,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Good Time,Good Time,11/5/2008,306773,FALSE,66,0.767,1
+382,Alan Jackson,country,2810955,59,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Gone Country,Who I Am,6/28/1994,260493,FALSE,59,0.679,1
+383,Alan Jackson,country,2810955,57,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Livin' On Love,Who I Am,6/28/1994,229560,FALSE,57,0.55,1
+384,Alan Jackson,country,2810955,64,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Don't Rock the Jukebox,Don`t Rock The Jukebox,4/3/1991,171066,FALSE,64,0.637,1
+385,Alan Jackson,country,2810955,50,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Remember When,Greatest Hits Volume II,10/9/2003,270600,FALSE,50,0.313,1
+386,Alan Jackson,country,2810955,58,https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS,Chasin' That Neon Rainbow,Here In The Real World,2/27/1990,185373,FALSE,58,0.565,1
+387,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,85,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Perfect,÷ (Deluxe),3/3/2017,263400,FALSE,85,0.448,1
+388,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,85,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Shape of You,÷ (Deluxe),3/3/2017,233712,FALSE,85,0.652,0
+389,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,64,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Photograph,x - Wembley Edition,2013,258986,FALSE,64,0.379,1
+390,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,82,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Shivers,=,10/25/2021,207853,FALSE,82,0.859,1
+391,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,64,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Thinking out Loud,x - Wembley Edition,2013,281560,FALSE,64,0.445,1
+392,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,80,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Bad Habits,=,10/25/2021,230746,FALSE,80,0.893,0
+393,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,72,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,I Don't Care ,No.6 Collaborations Project,7/12/2019,219946,FALSE,72,0.676,1
+394,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,71,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Bam Bam ,Familia,4/7/2022,206070,FALSE,71,0.697,1
+395,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,77,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Castle on the Hill,÷ (Deluxe),3/3/2017,261153,FALSE,77,0.834,1
+396,Ed Sheeran,"pop, singer-songwriter pop, uk pop",115449586,77,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,Galway Girl,÷ (Deluxe),3/3/2017,170826,FALSE,77,0.876,1
+397,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,71,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,QKThr,Drukqs,10/22/2001,87466,FALSE,71,0.0223,1
+398,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,64,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,Avril 14th,Drukqs,10/22/2001,125520,FALSE,64,0.0259,1
+399,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,61,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,Xtal,Selected Ambient Works 85-92,2/10/1992,293751,FALSE,61,0.505,0
+400,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,61,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,#3,Selected Ambient Works Volume II,3/7/1994,464293,FALSE,61,0.071,0
+401,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,58,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,aisatsana [102],Syro,9/22/2014,321880,FALSE,58,0.01,0
+402,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,57,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,Flim,Come To Daddy,10/6/1997,177093,FALSE,57,0.734,0
+403,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,56,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,#19,#19,6/18/2024,614592,FALSE,56,0.117,1
+404,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,56,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,I,Selected Ambient Works 85-92,2/10/1992,77346,FALSE,56,0.0896,1
+405,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,55,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,180db_ [130],Syro,9/22/2014,191466,FALSE,55,0.61,1
+406,Aphex Twin,"ambient, braindance, electronica, intelligent dance music, uk experimental electronic",1447644,55,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,Alberto Balsalm,...I Care Because You Do,4/24/1995,310746,FALSE,55,0.599,1
+407,Jason Derulo,"dance pop, pop",12157241,77,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Want to Want Me,Everything Is 4,5/29/2015,207719,FALSE,77,0.68,0
+408,Jason Derulo,"dance pop, pop",12157241,67,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Whatcha Say,Jason Derulo,2/24/2010,221253,FALSE,67,0.711,1
+409,Jason Derulo,"dance pop, pop",12157241,65,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Talk Dirty ,Talk Dirty,9/10/2013,177685,TRUE,65,0.652,1
+410,Jason Derulo,"dance pop, pop",12157241,72,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Savage Love ,Savage Love (Laxed - Siren Beat),6/11/2020,171374,TRUE,72,0.481,0
+411,Jason Derulo,"dance pop, pop",12157241,65,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Swalla ,Nu King,2/16/2024,216408,TRUE,65,0.789,1
+412,Jason Derulo,"dance pop, pop",12157241,65,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Acapulco,Nu King,2/16/2024,139672,FALSE,65,0.799,1
+413,Jason Derulo,"dance pop, pop",12157241,62,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Take You Dancing,Nu King,2/16/2024,190306,FALSE,62,0.687,1
+414,Jason Derulo,"dance pop, pop",12157241,63,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,In My Head,Jason Derulo,2/24/2010,198960,FALSE,63,0.733,0
+415,Jason Derulo,"dance pop, pop",12157241,70,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,From the Islands ,From the Islands (kompa pasión),5/10/2024,168871,FALSE,70,0.85,0
+416,Jason Derulo,"dance pop, pop",12157241,67,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,Spicy Margarita,Nu King,2/16/2024,154376,FALSE,67,0.825,0
+417,Alan Walker,electro house,39210855,81,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Faded,Different World,12/14/2018,212106,FALSE,81,0.627,1
+418,Alan Walker,electro house,39210855,72,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,On My Way,World Of Walker,11/26/2021,193959,TRUE,72,0.697,0
+419,Alan Walker,electro house,39210855,73,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Alone Pt. II,World Of Walker,11/26/2021,179052,FALSE,73,0.659,0
+420,Alan Walker,electro house,39210855,62,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Better Off ,"Better Off (Alone, Pt. III)",9/28/2023,151702,FALSE,62,0.691,0
+421,Alan Walker,electro house,39210855,74,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Alone,Different World,12/14/2018,160426,FALSE,74,0.914,1
+422,Alan Walker,electro house,39210855,57,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Issues - Alan Walker Remix,Issues (Alan Walker Remix),5/5/2017,181000,TRUE,57,0.774,1
+423,Alan Walker,electro house,39210855,72,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Darkside,Different World,12/14/2018,211680,FALSE,72,0.606,0
+424,Alan Walker,electro house,39210855,72,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Barcelona,Barcelona,6/13/2024,205086,FALSE,72,0.89,1
+425,Alan Walker,electro house,39210855,72,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,The Spectre,The Spectre,9/15/2017,193787,FALSE,72,0.711,0
+426,Alan Walker,electro house,39210855,71,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,Lily,Different World,12/14/2018,195840,FALSE,71,0.634,0
+427,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,62,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Archie Marry Me,Alvvays,7/22/2014,196560,FALSE,62,0.829,1
+428,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,60,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Dreams Tonite,Antisocialites,9/8/2017,196026,FALSE,60,0.622,1
+429,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,55,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Adult Diversion,Alvvays,7/22/2014,207640,FALSE,55,0.948,1
+430,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,52,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Tile By Tile,Blue Rev,10/7/2022,178046,FALSE,52,0.727,1
+431,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,51,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,In Undertow,Antisocialites,9/8/2017,197186,FALSE,51,0.691,1
+432,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,49,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,After The Earthquake,Blue Rev,10/7/2022,185276,FALSE,49,0.899,1
+433,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,50,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Not My Baby,Antisocialites,9/8/2017,256413,FALSE,50,0.645,1
+434,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,50,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Atop a Cake,Alvvays,7/22/2014,199573,FALSE,50,0.837,1
+435,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,49,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Ones Who Love You,Alvvays,7/22/2014,227240,FALSE,49,0.647,1
+436,Alvvays,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",575931,48,https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt,Next of Kin,Alvvays,7/22/2014,228453,FALSE,48,0.895,1
+437,Ava Max,pop,7041802,76,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,Whatever,KYGO,6/21/2024,178273,FALSE,76,0.77,0
+438,Ava Max,pop,7041802,80,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,Heaven & Hell,9/18/2020,187436,FALSE,80,0.706,1
+439,Ava Max,pop,7041802,71,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,The Motto,DRIVE,4/21/2023,164818,FALSE,71,0.763,0
+440,Ava Max,pop,7041802,78,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,Kings & Queens,Heaven & Hell,9/18/2020,162398,FALSE,78,0.69,0
+441,Ava Max,pop,7041802,73,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,Alone Pt. II,World Of Walker,11/26/2021,179052,FALSE,73,0.659,0
+442,Ava Max,pop,7041802,74,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,Car Keys ,Car Keys (Ayla),6/30/2023,147211,FALSE,74,0.959,0
+443,Ava Max,pop,7041802,73,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,My Head & My Heart,Heaven & Hell,9/18/2020,174760,FALSE,73,0.934,0
+444,Ava Max,pop,7041802,72,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,So Am I,Heaven & Hell,9/18/2020,183026,FALSE,72,0.657,1
+445,Ava Max,pop,7041802,70,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,Into Your Arms ,Into Your Arms (feat. Ava Max),6/8/2018,186022,TRUE,70,0.788,0
+446,Ava Max,pop,7041802,70,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,My Oh My,My Oh My,4/4/2024,156155,FALSE,70,0.856,1
+447,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,71,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,Poison,Trash,7/25/1989,270080,FALSE,71,0.908,0
+448,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,68,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,School's Out,School's Out,1972,210106,FALSE,68,0.745,1
+449,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,58,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,No More Mr. Nice Guy,Billion Dollar Babies (Deluxe Reissue),1973,187893,FALSE,58,0.515,0
+450,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,55,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,I'm Eighteen,Love It to Death,1971,180760,FALSE,55,0.413,0
+451,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,51,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,Feed My Frankenstein,Hey Stoopid,7/2/1991,284693,FALSE,51,0.917,1
+452,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,49,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,I'm Always Chasing Rainbows,Alice Cooper Goes to Hell,1/1/1976,128333,FALSE,49,0.339,1
+453,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,48,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,Bed of Nails,Trash,7/25/1989,259986,FALSE,48,0.971,0
+454,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,47,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,Hey Stoopid,Hey Stoopid,7/2/1991,273933,FALSE,47,0.939,0
+455,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,46,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,I Never Cry,Alice Cooper Goes to Hell,1/1/1976,224600,FALSE,46,0.284,1
+456,Alice Cooper,"album rock, classic rock, detroit rock, glam metal, glam rock, hard rock, metal, protopunk, rock",3740417,46,https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS,Under My Wheels,Killer,1971,171560,FALSE,46,0.798,1
+457,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,78,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,Vete,ALFA & OMEGA,9/30/2022,185240,FALSE,78,0.708,1
+458,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,77,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,El Precio De La Soledad,Así Es Esto,10/15/2012,186360,FALSE,77,0.846,1
+459,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,76,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,El Vals Del Olvido,El Día De Los Muertos,10/25/2019,209266,FALSE,76,0.47,0
+460,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,76,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,Tengo Claro,Tengo Claro,7/5/2024,191681,FALSE,76,0.597,1
+461,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,75,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,El Paciente,La Rueda De La Fortuna,8/18/2017,211266,FALSE,75,0.713,1
+462,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,74,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,Yo Todo Lo Doy,ALFA & OMEGA,9/30/2022,202453,FALSE,74,0.725,0
+463,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,74,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,En Definitiva,La Rueda De La Fortuna,8/18/2017,216266,FALSE,74,0.669,0
+464,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,73,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,No,ALFA & OMEGA,9/30/2022,187240,FALSE,73,0.7,1
+465,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,71,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,El Sillón,El Día De Los Muertos,10/25/2019,199293,FALSE,71,0.595,0
+466,Alfredo Olivas,"banda, corrido, musica mexicana, norteno, sad sierreno, sierreno",8774350,70,https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8,Seguramente,La Rueda De La Fortuna,8/18/2017,196666,FALSE,70,0.845,1
+467,alex_g_offline,,690529,75,https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo,I Wait for You,1234,7/9/2023,158104,FALSE,75,0.304,1
+468,alex_g_offline,,690529,74,https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo,Break,1234,7/9/2023,177028,FALSE,74,0.452,1
+469,alex_g_offline,,690529,73,https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo,Pretend,1234,7/9/2023,359769,FALSE,73,0.703,1
+470,alex_g_offline,,690529,69,https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo,Sometimes,1234,10/13/2023,152102,FALSE,69,0.388,1
+471,Christina Aguilera,"dance pop, pop",8411343,49,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Moves Like Jagger - Studio Recording From The Voice Performance,Feel Good Music,5/22/2020,202986,FALSE,49,0.734,1
+472,Christina Aguilera,"dance pop, pop",8411343,79,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Feel This Moment ,Global Warming: Meltdown (Deluxe Version),2012,229506,FALSE,79,0.758,1
+473,Christina Aguilera,"dance pop, pop",8411343,78,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Genie In a Bottle,Christina Aguilera (Expanded Edition),1999,217573,FALSE,78,0.8,1
+474,Christina Aguilera,"dance pop, pop",8411343,69,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Say Something,Is There Anybody Out There?,1/20/2014,229400,FALSE,69,0.147,1
+475,Christina Aguilera,"dance pop, pop",8411343,67,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Lady Marmalade - Single Edit,Lady Marmalade,6/26/2001,267960,FALSE,67,0.811,1
+476,Christina Aguilera,"dance pop, pop",8411343,70,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,11/21/2001,237466,FALSE,70,0.572,1
+477,Christina Aguilera,"dance pop, pop",8411343,67,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Beautiful,Stripped,7/19/2002,238560,FALSE,67,0.573,0
+478,Christina Aguilera,"dance pop, pop",8411343,66,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Dirrty ,Stripped,7/19/2002,298853,FALSE,66,0.889,1
+479,Christina Aguilera,"dance pop, pop",8411343,65,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Fighter,Stripped,7/19/2002,245960,FALSE,65,0.92,0
+480,Christina Aguilera,"dance pop, pop",8411343,65,https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS,Pero Me Acuerdo de Tí,Mi Reflejo,2000,265733,FALSE,65,0.474,1
+481,Alec Benjamin,"alt z, pop, pov: indie",5186665,82,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly,Narrated For You,11/16/2018,169353,FALSE,82,0.557,0
+482,Alec Benjamin,"alt z, pop, pov: indie",5186665,74,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,If We Have Each Other,Narrated For You,11/16/2018,181522,FALSE,74,0.577,0
+483,Alec Benjamin,"alt z, pop, pov: indie",5186665,73,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Water Fountain,Narrated For You,11/16/2018,218893,FALSE,73,0.504,1
+484,Alec Benjamin,"alt z, pop, pov: indie",5186665,70,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,If I Killed Someone For You,Narrated For You,11/16/2018,185122,FALSE,70,0.605,1
+485,Alec Benjamin,"alt z, pop, pov: indie",5186665,70,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Devil Doesn’t Bargain,(Un)Commentary,4/15/2022,163613,FALSE,70,0.606,1
+486,Alec Benjamin,"alt z, pop, pov: indie",5186665,67,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Boy In The Bubble,Narrated For You,11/16/2018,181705,FALSE,67,0.578,0
+487,Alec Benjamin,"alt z, pop, pov: indie",5186665,64,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly ,Let Me Down Slowly (feat. Alessia Cara),1/7/2019,169174,FALSE,64,0.569,0
+488,Alec Benjamin,"alt z, pop, pov: indie",5186665,62,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,I Sent My Therapist To Therapy,12 Notes,5/10/2024,180923,FALSE,62,0.698,0
+489,Alec Benjamin,"alt z, pop, pov: indie",5186665,62,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Eyes Blue Like The Atlantic Pt. 2 ,"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",8/13/2020,156187,FALSE,62,0.616,1
+490,Alec Benjamin,"alt z, pop, pov: indie",5186665,62,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,Outrunning Karma,Narrated For You,11/16/2018,188850,FALSE,62,0.649,0
+491,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,82,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Dream On,Aerosmith,1/5/1973,267596,FALSE,82,0.476,1
+492,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,76,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,"I Don't Want To Miss A Thing - From ""Armageddon"" Soundtrack",I Don't Want To Miss A Thing EP,8/18/1998,299723,FALSE,76,0.649,1
+493,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,75,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Walk This Way,Toys In The Attic,4/8/1975,220310,FALSE,75,0.73,1
+494,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,73,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Sweet Emotion,Toys In The Attic,4/8/1975,274088,FALSE,73,0.76,1
+495,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,73,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Crazy,Get A Grip,1/1/1993,316826,FALSE,73,0.848,0
+496,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,70,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Cryin',Get A Grip,1/1/1993,308560,FALSE,70,0.813,1
+497,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,68,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Dude ,Permanent Vacation,1/1/1987,265773,FALSE,68,0.982,0
+498,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,65,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Amazing,Get A Grip,1/1/1993,355915,FALSE,65,0.803,1
+499,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,62,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Angel,Permanent Vacation,1/1/1987,308906,FALSE,62,0.819,1
+500,Aerosmith,"album rock, classic rock, hard rock, rock",14505641,62,https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH,Jaded,Just Push Play,3/5/2001,215823,FALSE,62,0.866,1
+501,Aly & AJ,"dance pop, girl group, post-teen pop",680583,63,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Potential Breakup Song,Insomniatic,1/1/2007,219773,FALSE,63,0.89,0
+502,Aly & AJ,"dance pop, girl group, post-teen pop",680583,55,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Potential Breakup Song,Potential Breakup Song,12/29/2020,218333,TRUE,55,0.901,0
+503,Aly & AJ,"dance pop, girl group, post-teen pop",680583,50,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Slow Dancing,a touch of the beat gets you up on your feet gets you out and then into the sun,5/7/2021,267880,FALSE,50,0.455,1
+504,Aly & AJ,"dance pop, girl group, post-teen pop",680583,50,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Like Whoa,Insomniatic,1/1/2007,150826,FALSE,50,0.806,0
+505,Aly & AJ,"dance pop, girl group, post-teen pop",680583,46,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Walking On Sunshine,Into The Rush,1/1/2005,233733,FALSE,46,0.961,1
+506,Aly & AJ,"dance pop, girl group, post-teen pop",680583,46,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Rush,Into The Rush,1/1/2005,191733,FALSE,46,0.815,0
+507,Aly & AJ,"dance pop, girl group, post-teen pop",680583,43,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Chemicals React - Remix,Insomniatic,1/1/2007,175920,FALSE,43,0.889,1
+508,Aly & AJ,"dance pop, girl group, post-teen pop",680583,42,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Do You Believe In Magic,Into The Rush,1/1/2005,134066,FALSE,42,0.909,1
+509,Aly & AJ,"dance pop, girl group, post-teen pop",680583,40,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,No One,Into The Rush,1/1/2005,177560,FALSE,40,0.577,1
+510,Aly & AJ,"dance pop, girl group, post-teen pop",680583,39,https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i,Pretty Places,a touch of the beat gets you up on your feet gets you out and then into the sun,5/7/2021,319400,FALSE,39,0.798,1
+511,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,85,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,Yeah! ,Confessions (Expanded Edition),3/23/2004,250373,FALSE,85,0.791,1
+512,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,83,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,DJ Got Us Fallin' In Love ,Raymond v Raymond (Expanded Edition),3/30/2010,220800,FALSE,83,0.861,0
+513,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,81,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,My Boo,Confessions (Expanded Edition),3/23/2004,223440,FALSE,81,0.507,1
+514,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,78,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,Hey Daddy ,Raymond v Raymond (Expanded Edition),3/30/2010,224093,FALSE,78,0.698,1
+515,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,73,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,U Remind Me,8701,8/7/2001,266893,FALSE,73,0.629,1
+516,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,73,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,Burn,Confessions (Expanded Edition),3/23/2004,231933,FALSE,73,0.477,1
+517,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,72,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,Love in This Club ,Here I Stand,5/27/2008,259720,FALSE,72,0.712,1
+518,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,72,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,Confessions Part II,Confessions (Expanded Edition),3/23/2004,211200,FALSE,72,0.467,1
+519,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,69,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,OMG ,Raymond v Raymond (Expanded Edition),3/30/2010,269493,FALSE,69,0.745,0
+520,USHER,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",11933139,70,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,You Make Me Wanna...,My Way,9/16/1997,219120,FALSE,70,0.639,0
+521,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,70,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Miss Murder,DECEMBERUNDERGROUND,6/6/2006,206586,FALSE,70,0.873,1
+522,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,59,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Girl's Not Grey,Sing The Sorrow,2003,190493,FALSE,59,0.904,0
+523,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,52,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,The Boy Who Destroyed The World,All Hallows EP,1/1/1999,185360,FALSE,52,0.978,0
+524,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,52,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Prelude 12/21,DECEMBERUNDERGROUND,6/6/2006,94466,FALSE,52,0.658,0
+525,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,52,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Silver And Cold,Sing The Sorrow,2003,250706,FALSE,52,0.839,0
+526,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,50,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,The Leaving Song Pt. II,Sing The Sorrow,2003,211040,FALSE,50,0.82,0
+527,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,50,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,The Days Of The Phoenix,The Art Of Drowning,1/1/2000,207693,FALSE,50,0.986,0
+528,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,50,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Love Like Winter,DECEMBERUNDERGROUND,6/6/2006,165653,FALSE,50,0.914,0
+529,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,50,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Dancing Through Sunday,Sing The Sorrow,2003,146666,FALSE,50,0.98,0
+530,AFI,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",924438,47,https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz,Totalimmortal,AFI,1/1/2004,164360,FALSE,47,0.968,0
+531,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,85,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Carry You Home,Carry You Home,5/31/2024,166880,FALSE,85,0.66,1
+532,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,79,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Before You Leave Me,Before You Leave Me,2/16/2024,176178,FALSE,79,0.84,1
+533,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,72,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Save You a Seat,Save You a Seat,3/29/2024,197573,FALSE,72,0.469,1
+534,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,66,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Chasing Shadows,Chasing Shadows,12/2/2022,164027,FALSE,66,0.604,0
+535,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,61,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,One More I Love You,One More I Love You,6/11/2021,216935,FALSE,61,0.381,1
+536,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,60,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Yard Sale,Yard Sale,11/10/2023,174196,FALSE,60,0.768,1
+537,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,59,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Carry You Home ,Carry You Home (feat. Ella Henderson),8/9/2024,166880,FALSE,59,0.694,1
+538,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,56,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Change Your Mind,Change Your Mind,7/14/2023,174406,FALSE,56,0.401,0
+539,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,54,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Give You Love,Give You Love,6/8/2023,183399,FALSE,54,0.724,1
+540,Alex Warren,"gen z singer-songwriter, singer-songwriter pop",451326,54,https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB,Screaming Underwater,Screaming Underwater,9/10/2021,146093,FALSE,54,0.621,0
+541,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,63,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Cello Suite No. 1 in G Major BWV 1007: I. Prélude,Bach: Unaccompanied Cello Suites (Remastered),1983,151733,FALSE,63,0.111,1
+542,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,52,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,The Well-Tempered Clavier Book 1 BWV 846-869 / Prelude & Fugue in C Major BWV 846: I. Prelude,"J.S. Bach: The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",3/15/2019,139306,FALSE,52,0.126,1
+543,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,50,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Prelude in C Minor BWV 999,"Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",2/10/1993,68573,FALSE,50,0.15,0
+544,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,48,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Prelude in D Minor BWV 926,"Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",2/10/1993,75533,FALSE,48,0.183,0
+545,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,60,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Goldberg Variations BWV 988: Aria,"Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",1981,184853,FALSE,60,0.0139,0
+546,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,46,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Prelude in C Major BWV 924: Praeambulum in C Major BWV 924,"Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",2/10/1993,67093,FALSE,46,0.216,1
+547,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,45,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Prelude in G Minor BWV 930: Praeambulum in G Minor BWV 930,"Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",2/10/1993,87746,FALSE,45,0.236,0
+548,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,45,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Prelude in D Major BWV 925,"Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",2/10/1993,68133,FALSE,45,0.261,1
+549,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,57,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Overture  No. 2 in B Minor BWV 1067: VII. Badinerie,Bach: Overtures (Suites) Nos. 1-4,12/2/2000,90106,FALSE,57,0.269,0
+550,Johann Sebastian Bach,"baroque, classical, early music, german baroque",4406930,56,https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408,Unaccompanied Cello Suite No. 1 in G major BWV 1007: I. Prélude,Six Evolutions - Bach: Cello Suites,8/17/2018,150973,FALSE,56,0.0991,1
+551,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,69,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,E. Coli ,Bread,11/30/2018,132147,TRUE,69,0.555,0
+552,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,69,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,Ocean Prime ,Yacht Rock 2,8/30/2019,99906,TRUE,69,0.604,1
+553,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,68,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,Great Adventures,Super Tecmo Bo,12/17/2021,107253,TRUE,68,0.468,1
+554,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,63,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,Together Forever ,Together Forever,8/16/2024,181910,TRUE,63,0.734,1
+555,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,63,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,1985,Alfredo,5/29/2020,152546,TRUE,63,0.595,0
+556,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,62,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,6 Five Heartbeats ,This Thing Of Ours 2,10/8/2021,114092,TRUE,62,0.561,1
+557,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,62,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,I Hate Everything ,The Food Villain,10/25/2020,82133,TRUE,62,0.6,0
+558,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,61,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,Loose Change ,This Thing Of Ours,4/30/2021,118398,TRUE,61,0.628,1
+559,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,61,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,Summer Reign ,The Great Escape,3/31/2023,175626,TRUE,61,0.705,1
+560,The Alchemist,"alternative hip hop, drumless hip hop, hip hop, instrumental hip hop, west coast rap",708235,60,https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu,Something to Rap About ,Alfredo,5/29/2020,282560,TRUE,60,0.524,1
+561,Ashnikko,"alt z, escape room",2355237,71,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Slumber Party ,DEMIDEVIL,1/15/2021,178404,TRUE,71,0.398,0
+562,Ashnikko,"alt z, escape room",2355237,67,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Daisy,DEMIDEVIL,1/15/2021,146523,TRUE,67,0.663,1
+563,Ashnikko,"alt z, escape room",2355237,64,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,STUPID ,"Hi, It's Me",7/12/2019,167317,TRUE,64,0.637,1
+564,Ashnikko,"alt z, escape room",2355237,60,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Worms,WEEDKILLER,8/25/2023,148690,TRUE,60,0.716,0
+565,Ashnikko,"alt z, escape room",2355237,59,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Deal With It ,DEMIDEVIL,1/15/2021,191149,TRUE,59,0.689,0
+566,Ashnikko,"alt z, escape room",2355237,56,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,You Make Me Sick!,WEEDKILLER,8/25/2023,138299,TRUE,56,0.856,0
+567,Ashnikko,"alt z, escape room",2355237,58,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Cheerleader,WEEDKILLER,8/25/2023,132818,TRUE,58,0.837,1
+568,Ashnikko,"alt z, escape room",2355237,58,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Daisy 2.0 ,Daisy 2.0 (feat. Hatsune Miku),12/11/2020,167157,TRUE,58,0.627,1
+569,Ashnikko,"alt z, escape room",2355237,58,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Tantrum,Tantrum,3/6/2020,140010,TRUE,58,0.787,1
+570,Ashnikko,"alt z, escape room",2355237,56,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP,Cry ,DEMIDEVIL,1/15/2021,126663,TRUE,56,0.801,0
+571,A,british alternative rock,16997,41,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Nothing,Hi-Fi Serious,1/1/2002,223266,FALSE,41,0.899,1
+572,A,british alternative rock,16997,28,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Starbucks,Hi-Fi Serious,1/1/2002,198333,FALSE,28,0.946,1
+573,A,british alternative rock,16997,27,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Something's Going On,Hi-Fi Serious,1/1/2002,178133,FALSE,27,0.982,0
+574,A,british alternative rock,16997,21,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Here We Go Again ,A vs. Monkey Kong,1/1/1999,237000,FALSE,21,0.782,1
+575,A,british alternative rock,16997,18,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,The Distance,Hi-Fi Serious,1/1/2002,217533,FALSE,18,0.987,1
+576,A,british alternative rock,16997,16,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Old Folks,A vs. Monkey Kong,1/1/1999,235200,FALSE,16,0.985,1
+577,A,british alternative rock,16997,15,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Pacific Ocean Blue,Hi-Fi Serious,1/1/2002,207706,FALSE,15,0.989,1
+578,A,british alternative rock,16997,15,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Six O' Clock on A Tube Stop,Hi-Fi Serious,1/1/2002,194160,FALSE,15,0.979,1
+579,A,british alternative rock,16997,14,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,Going Down,Hi-Fi Serious,1/1/2002,249840,FALSE,14,0.858,0
+580,A,british alternative rock,16997,14,https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv,The Springs,Hi-Fi Serious,1/1/2002,268506,FALSE,14,0.867,1
+581,HARDY,"contemporary country, modern country pop",1076900,79,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,TRUCK BED,the mockingbird & THE CROW,1/20/2023,167534,TRUE,79,0.77,1
+582,HARDY,"contemporary country, modern country pop",1076900,73,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,Hide My Gun ,F-1 Trillion,8/15/2024,220479,TRUE,73,0.651,1
+583,HARDY,"contemporary country, modern country pop",1076900,70,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,ONE BEER ,HIXTAPE: Vol. 1,9/13/2019,173173,FALSE,70,0.745,1
+584,HARDY,"contemporary country, modern country pop",1076900,70,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,wait in the truck,the mockingbird & THE CROW,1/20/2023,277659,FALSE,70,0.464,1
+585,HARDY,"contemporary country, modern country pop",1076900,70,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,GIVE HEAVEN SOME HELL,A ROCK,9/4/2020,217801,FALSE,70,0.839,1
+586,HARDY,"contemporary country, modern country pop",1076900,69,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,red ,the mockingbird & THE CROW,1/20/2023,205767,FALSE,69,0.88,1
+587,HARDY,"contemporary country, modern country pop",1076900,67,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,PSYCHO,Quit!!,7/12/2024,198748,TRUE,67,0.897,1
+588,HARDY,"contemporary country, modern country pop",1076900,66,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,He Went To Jared ,HIXTAPE: Vol. 1,9/13/2019,213693,FALSE,66,0.806,0
+589,HARDY,"contemporary country, modern country pop",1076900,65,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,Turn You Down ,HIXTAPE: Vol. 1,9/13/2019,154960,FALSE,65,0.874,1
+590,HARDY,"contemporary country, modern country pop",1076900,63,https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy,SIX FEET UNDER ,Quit!!,7/12/2024,191437,FALSE,63,0.553,1
+591,Å,,368,20,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Gånglåt i femtakt,Åtråvärld,12/16/2023,474760,FALSE,20,0.765,1
+592,Å,,368,2,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Joelbitar,Å,5/3/2014,493172,FALSE,2,0.795,0
+593,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Uti vår hage,Ånyo,9/30/2017,168320,FALSE,1,0.396,0
+594,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Uttryck,Åtråvärld,12/16/2023,707160,FALSE,1,0.757,0
+595,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Fredmans epistel 9,Åtråvärld,12/16/2023,326773,FALSE,1,0.751,1
+596,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Du fria,Å,5/3/2014,329603,FALSE,1,0.527,1
+597,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Änglarna dansar,Å,5/3/2014,334504,FALSE,1,0.335,1
+598,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Soluppgung,Å,5/3/2014,382943,FALSE,1,0.482,1
+599,Å,,368,1,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Transversala varelser,Åtråvärld,12/16/2023,359826,FALSE,1,0.535,0
+600,Å,,368,0,https://open.spotify.com/artist/6oxx7e9b265qJCMCdhHUl6,Trollmors vaggsång,Å,5/3/2014,379039,FALSE,0,0.47,1
+601,Â,,221,18,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Darkseid,Darkseid,4/29/2019,248275,FALSE,18,0.969,1
+602,Â,,221,17,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,C4SH,C4SH,2/8/2019,255499,FALSE,17,0.704,1
+603,Â,,221,9,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Repent - VIP,X,3/15/2019,263314,FALSE,9,0.923,0
+604,Â,,221,8,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Sacrifices Must Be Made,The BDP Tape Vol.1,3/29/2019,520000,FALSE,8,0.5,0
+605,Â,,221,5,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Feel So High,Growing,1/18/2019,208327,FALSE,5,0.499,0
+606,Â,,221,5,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Didn't I,X,3/15/2019,263314,FALSE,5,0.954,1
+607,Â,,221,4,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Public Enemy,Growing,1/18/2019,221739,FALSE,4,0.721,1
+608,Â,,221,3,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Back In The Day,Push The Dub,3/8/2019,333987,FALSE,3,0.99,1
+609,Â,,221,4,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Rolling Fire - VIP,Revolution,1/3/2019,267428,FALSE,4,0.976,1
+610,Â,,221,3,https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q,Bring it Down - Reworked,Reworked,3/25/2019,286896,FALSE,3,0.902,0
+611,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,73,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,BELLAKEO,ÉXODO,6/20/2024,197333,TRUE,73,0.88,1
+612,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,77,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Downtown,Downtown,11/19/2017,193456,FALSE,77,0.679,0
+613,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,77,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Gata Only ,Gata Only (Remix),6/7/2024,230513,TRUE,77,0.681,0
+614,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,67,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Alegría,GOTTI A,7/4/2024,165054,FALSE,67,0.658,0
+615,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,66,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Envolver,Versions of Me,4/12/2022,193805,FALSE,66,0.736,0
+616,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,71,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Mi Amor ,Mi Amor (with JVKE & Anitta),6/14/2024,139428,FALSE,71,0.909,1
+617,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,69,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Back for More ,Back for More (with Anitta),9/15/2023,131037,FALSE,69,0.897,0
+618,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,66,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Joga Pra Lua,Funk Generation,4/26/2024,125108,FALSE,66,0.951,0
+619,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,67,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Savage Funk,Funk Generation,4/26/2024,83267,TRUE,67,0.682,1
+620,Anitta,"funk pop, funk rj, pagode baiano, pop, pop nacional",12561720,64,https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb,Double Team,Funk Generation,4/26/2024,231628,TRUE,64,0.814,1
+621,A,,25,6,https://open.spotify.com/artist/2pBWKPJCsDMuNxru6MWKUv,Work,Work,3/11/2019,206132,TRUE,6,0.617,1
+622,A,,25,0,https://open.spotify.com/artist/2pBWKPJCsDMuNxru6MWKUv,Starwood Radio Promo,Hired Guns,2008,51680,FALSE,0,0.57,1
+623,A,,25,0,https://open.spotify.com/artist/2pBWKPJCsDMuNxru6MWKUv,Hype,Movida Records - La Compilacion Parte 1,12/12/2012,396495,FALSE,0,0.914,1
+624,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,61,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,El Final De Nuestra Historia,Íconos 25 Éxitos,1/1/2012,197280,FALSE,61,0.499,1
+625,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,73,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Ya Te Perdí La Fe,Ojos En Blanco,12/15/2014,147053,FALSE,73,0.5,1
+626,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,72,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Ya Es Muy Tarde,Más Adelante,1/1/2009,181160,FALSE,72,0.588,0
+627,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,73,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Mi Segunda Vida,Gracias Por Creer,1/1/2013,187640,FALSE,73,0.479,1
+628,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,72,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,El Ruido De Tus Zapatos,Gracias Por Creer,1/1/2013,265880,FALSE,72,0.496,1
+629,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,69,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Si Tu Amor No Vuelve,La Otra Cara De La Moneda,1/1/2005,247600,FALSE,69,0.408,1
+630,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,69,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Entre Beso Y Beso,Calidad Y Cantidad,3/23/2018,182306,FALSE,69,0.641,0
+631,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,55,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,De Ti Exclusivo,Para Ti Exclusivo (En Vivo Desde Arandas Jalisco),1/1/2007,196360,FALSE,55,0.463,1
+632,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,68,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Te Estaré Esperando,Más Adelante,1/1/2009,244106,FALSE,68,0.619,1
+633,La Arrolladora Banda El Limón De Rene Camacho,"banda, musica mexicana, norteno",7005423,69,https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz,Ya No Te Buscaré,Todo Depende De Ti,1/1/2010,191066,FALSE,69,0.566,1
+634,a,,2,15,https://open.spotify.com/artist/1nKbNw7884Yyv33TDekZhO,Countryside - Instrumental Version,Countryside (Instrumental Version),8/2/2024,79719,FALSE,15,0.751,1
+635,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,77,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,Dreams Fairytales Fantasies ,Floor Seats,8/16/2019,222986,TRUE,77,0.597,1
+636,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,69,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,HOT ONE ,King Of The Mischievous South Vol. 2,7/19/2024,165280,TRUE,69,0.715,1
+637,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,70,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,Plain Jane,Still Striving,8/18/2017,173600,TRUE,70,0.844,1
+638,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,67,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,Plain Jane REMIX ,Plain Jane REMIX (feat. Nicki Minaj),12/15/2017,202636,TRUE,67,0.839,1
+639,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,64,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,Work REMIX ,Trap Lord,8/19/2013,283693,TRUE,64,0.733,1
+640,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,61,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,SILVER TOOTH. ,Road to CASABLANCO.,5/5/2023,142560,TRUE,61,0.785,1
+641,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,54,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,New Level ,ALWAYS STRIVE AND PROSPER,6/22/2016,264973,TRUE,54,0.703,0
+642,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,59,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,Runnin ,Creed II: The Album,11/16/2018,131674,TRUE,59,0.975,0
+643,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,59,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,Shabba ,Trap Lord,8/19/2013,275866,TRUE,59,0.712,1
+644,A$AP Ferg,"hip hop, pop rap, rap, southern hip hop, trap",3813155,57,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,WAM,Floor Seats,8/16/2019,157586,TRUE,57,0.624,0
+645,A,,36,7,https://open.spotify.com/artist/3fJc19UraBVq2d1SMCTDbW,Burnout,Burnout,6/27/2020,128052,TRUE,7,0.47,0
+646,A,,36,0,https://open.spotify.com/artist/3fJc19UraBVq2d1SMCTDbW,Candles and Wine,Candles and Wine,4/29/2019,205165,TRUE,0,0.447,0
+647,Ayra Starr,afrobeats,3434959,84,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Santa,Santa,4/3/2024,193038,FALSE,84,0.709,0
+648,Ayra Starr,afrobeats,3434959,72,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Rush,19 & Dangerous (Deluxe),10/21/2022,185093,FALSE,72,0.503,1
+649,Ayra Starr,afrobeats,3434959,75,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Last Heartbreak Song ,The Year I Turned 21,5/30/2024,149677,FALSE,75,0.624,1
+650,Ayra Starr,afrobeats,3434959,73,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Commas,The Year I Turned 21,5/30/2024,157089,FALSE,73,0.628,1
+651,Ayra Starr,afrobeats,3434959,67,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Bad Vibes ,The Year I Turned 21,5/30/2024,168406,FALSE,67,0.664,0
+652,Ayra Starr,afrobeats,3434959,69,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,People ,People (Remixes),3/31/2023,184633,TRUE,69,0.453,0
+653,Ayra Starr,afrobeats,3434959,67,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Ngozi,Trench to Triumph,7/21/2023,221217,FALSE,67,0.594,1
+654,Ayra Starr,afrobeats,3434959,65,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,No love,NI,6/30/2023,202186,TRUE,65,0.436,0
+655,Ayra Starr,afrobeats,3434959,65,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,Hypé ,Hypé (feat. Ayra Starr),3/7/2024,157402,FALSE,65,0.595,0
+656,Ayra Starr,afrobeats,3434959,65,https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq,PINACOLADA,PINACOLADA,8/15/2024,177847,FALSE,65,0.811,0
+657,Alok,"electro house, pop nacional, slap house",11291607,81,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Deep Down ,Deep Down (feat. Never Dull),6/17/2022,165752,FALSE,81,0.818,1
+658,Alok,"electro house, pop nacional, slap house",11291607,79,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,LET'S GET FKD UP,LET'S GET FKD UP (feat. Tribbs),11/17/2023,121500,TRUE,79,0.946,1
+659,Alok,"electro house, pop nacional, slap house",11291607,75,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Jungle,Jungle,9/22/2023,175500,FALSE,75,0.667,0
+660,Alok,"electro house, pop nacional, slap house",11291607,74,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Hear Me Now,Hear Me Now (feat. Zeeba),10/21/2016,194840,FALSE,74,0.463,1
+661,Alok,"electro house, pop nacional, slap house",11291607,74,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Car Keys ,Car Keys (Ayla),6/30/2023,147211,FALSE,74,0.959,0
+662,Alok,"electro house, pop nacional, slap house",11291607,68,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Lua,Boiadeira Internacional (Ao Vivo),2/23/2024,206538,FALSE,68,0.838,0
+663,Alok,"electro house, pop nacional, slap house",11291607,73,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Summer's Back,Summer's Back,6/21/2024,147619,FALSE,73,0.914,1
+664,Alok,"electro house, pop nacional, slap house",11291607,73,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Deep In Your Love,Deep In Your Love,1/12/2024,144648,FALSE,73,0.88,1
+665,Alok,"electro house, pop nacional, slap house",11291607,71,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Piece Of Your Heart - Alok Remix,Piece Of Your Heart (Alok Remix),6/7/2019,166451,FALSE,71,0.86,0
+666,Alok,"electro house, pop nacional, slap house",11291607,68,https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W,Headlights ,Headlights (feat. KIDDO),2/18/2022,158400,FALSE,68,0.754,0
+667,A,,42,6,https://open.spotify.com/artist/4NvhugnbDdcXsb3Prbef6t,A Tazza ‘E Cafe,The Best of Jimmy Roselli,12/27/1993,148506,FALSE,6,0.456,1
+668,a,,107,33,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Podiseti Poddulona Mahankali,Durgamma Songs,9/18/2020,291758,FALSE,33,0.972,1
+669,a,,107,27,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Telu Vijaya Bathukamma,Bathukamma Hit Songs,9/17/2020,261234,FALSE,27,0.946,1
+670,a,,107,25,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Amma Durgamma Thalli,Durga Devi Special Songs,9/18/2020,299559,FALSE,25,0.708,1
+671,a,,107,24,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Durgamma,Durgamma Songs,9/18/2020,281959,FALSE,24,0.827,0
+672,a,,107,24,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Vepa Chettuku Uyyala,Durgamma Songs,9/18/2020,419279,FALSE,24,0.993,0
+673,a,,107,22,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Dayagala Thallivi Neevammo,Durgamma Songs,9/18/2020,261877,FALSE,22,0.938,1
+674,a,,107,19,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Maa Inti Thalli,Durgamma Songs,9/18/2020,316199,FALSE,19,0.97,0
+675,a,,107,18,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Dandalu Dandalu Thalli,Durgamma Songs,9/18/2020,294704,FALSE,18,0.88,1
+676,a,,107,18,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Puli Neeku Vahanamai,Durgamma Songs,9/18/2020,281079,FALSE,18,0.87,0
+677,a,,107,5,https://open.spotify.com/artist/30HzuIZwrC6DkcGkAPpxAH,Pattu Cheera Pattu Raika,Durgamma Songs,9/18/2020,262143,FALSE,5,0.965,1
+678,Aaron May,conscious hip hop,540960,77,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,Let Go,CHASE,2/28/2019,176531,TRUE,77,0.498,0
+679,Aaron May,conscious hip hop,540960,77,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,I'm Good Luv Enjoy.,CHASE,2/28/2019,134547,TRUE,77,0.586,1
+680,Aaron May,conscious hip hop,540960,67,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,Cream,CHASE,2/28/2019,113555,TRUE,67,0.37,1
+681,Aaron May,conscious hip hop,540960,67,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,Ride,Ride,11/30/2018,190605,TRUE,67,0.497,0
+682,Aaron May,conscious hip hop,540960,65,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,No Recognition,No Recognition,6/25/2022,147441,TRUE,65,0.454,1
+683,Aaron May,conscious hip hop,540960,64,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,Make It,CHASE,2/28/2019,77374,TRUE,64,0.0941,0
+684,Aaron May,conscious hip hop,540960,62,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,In Love,CHASE,2/28/2019,232510,TRUE,62,0.474,0
+685,Aaron May,conscious hip hop,540960,61,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,Chains,Summer 19',10/9/2019,150278,TRUE,61,0.376,1
+686,Aaron May,conscious hip hop,540960,60,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,Dreams,CHASE,2/28/2019,162213,TRUE,60,0.509,0
+687,Aaron May,conscious hip hop,540960,58,https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS,HIDDEN VOICES,WOKEUPTHINKINBOUT / HIDDEN VOICES,1/7/2022,150928,TRUE,58,0.531,0
+688,A,,91,0,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Við eigum hvorn annar að,Stóra barnaplatan 2,1/1/2000,215899,FALSE,0,0.315,1
+689,A,,91,19,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Dil Se Jekra Ke Chahee,Maine Unko Sajan Chun Liya,5/8/2016,199865,FALSE,19,0.823,0
+690,A,,91,0,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Kontrast,Ljóstillífun,2/3/2017,375277,FALSE,0,0.535,0
+691,A,,91,5,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Sholay Title Music - Recreated,Sholay Title Music - Recreated,1/2/2019,174837,FALSE,5,0.805,1
+692,A,,91,4,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Away,Away,7/12/2019,306545,FALSE,4,0.363,0
+693,A,,91,0,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Amarte siempre - Bachata,BACHATA Mix Dubai 2012,2/15/2011,204405,FALSE,0,0.518,1
+694,A,,91,0,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Severity,Suanda History Vol. 2,11/3/2014,460592,FALSE,0,0.971,1
+695,A,,91,2,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Jai Gajmukhdhari Namo Namaha,Jai Gajmukhdhari Namo Namaha,8/30/2022,173984,FALSE,2,0.84,1
+696,A,,91,1,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,NEXT DOOR ,WARUGAKI G COLLECTION VOL.1,8/8/2013,365800,TRUE,1,0.645,1
+697,A,,91,0,https://open.spotify.com/artist/3f9OwgLz4OSqOaYIaOKrBJ,Þekja,Ljóstillífun,2/3/2017,284731,FALSE,0,0.266,0
+698,A,,71,14,https://open.spotify.com/artist/5DjIN5EHG85YTiCZgu4CFj,African Groove,African Groove,1/31/2019,360513,TRUE,14,0.788,0
+699,Anne-Marie,pop,12038839,85,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,Baby Don't Hurt Me,Baby Don't Hurt Me,4/6/2023,140017,FALSE,85,0.91,1
+700,Anne-Marie,pop,12038839,78,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,Rewrite The Stars ,Rewrite The Stars (with James Arthur & Anne-Marie),10/25/2018,218293,FALSE,78,0.743,1
+701,Anne-Marie,pop,12038839,78,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,2002,Speak Your Mind (Deluxe),4/27/2018,186986,FALSE,78,0.683,0
+702,Anne-Marie,pop,12038839,76,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,Cry Baby,Cry Baby,8/9/2024,157086,FALSE,76,0.762,1
+703,Anne-Marie,pop,12038839,75,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,FRIENDS,FRIENDS,2/9/2018,202620,TRUE,75,0.88,0
+704,Anne-Marie,pop,12038839,63,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,UNHEALTHY ,UNHEALTHY (Deluxe),7/28/2023,149653,FALSE,63,0.66,0
+705,Anne-Marie,pop,12038839,60,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,Our Song,Therapy,7/23/2021,163733,FALSE,60,0.759,1
+706,Anne-Marie,pop,12038839,63,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,Ciao Adios,Speak Your Mind (Deluxe),4/27/2018,199773,FALSE,63,0.853,1
+707,Anne-Marie,pop,12038839,64,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,fuck i'm lonely,~how i'm feeling~,3/6/2020,198973,TRUE,64,0.547,1
+708,Anne-Marie,pop,12038839,54,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,PSYCHO,UNHEALTHY (Deluxe),7/28/2023,162666,TRUE,54,0.666,1
+709,A,,6,0,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Tora Je Ja Bolish Bhai,Best Of Debabrata Biswas - Vol - 2,1/1/1977,158766,FALSE,0,0.262,1
+710,A,,6,1,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Baro Asha Kore Esechhi Go,Best Of Debabrata Biswas - Vol - 2,1/1/1977,157936,FALSE,1,0.18,1
+711,A,,6,1,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Purano Sei Diner Katha,Best Of Debabrata Biswas - Vol - 2,1/1/1977,184162,FALSE,1,0.247,1
+712,A,,6,0,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Akash Bhara Surja Tara,Best Of Debabrata Biswas - Vol - 2,1/1/1977,171741,FALSE,0,0.14,1
+713,A,,6,1,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Eso Go Jwele Diye Jao,Best Of Debabrata Biswas - Vol - 2,1/1/1977,185447,FALSE,1,0.271,1
+714,A,,6,0,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Aaji Jato Tara Tabo Akashe,Best Of Debabrata Biswas - Vol - 2,1/1/1977,167808,FALSE,0,0.335,1
+715,A,,6,0,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Ja Peyechhi Pratham Dine,Best Of Debabrata Biswas - Vol - 2,1/1/1977,178304,FALSE,0,0.321,0
+716,A,,6,6,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Nako Sajni Ga,Usha Mangeshkar Marathi Film & Modern Songs Vol 2,1/1/1979,227533,FALSE,6,0.692,0
+717,A,,6,0,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Sakarun Benu Bajaye Ke jay,Best Of Debabrata Biswas - Vol - 2,1/1/1977,167422,FALSE,0,0.23,0
+718,A,,6,0,https://open.spotify.com/artist/4JHgOJFhRw27P38t1tAHiP,Rimiki Jhimiki Jhare,Best Of Debabrata Biswas - Vol - 2,1/1/1977,188073,FALSE,0,0.255,1
+719,Andrew Underberg,,147884,72,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Poison - Hazbin Hotel Original Soundtrack,Poison (Hazbin Hotel Original Soundtrack),1/5/2024,127689,FALSE,72,0.783,1
+720,Andrew Underberg,,147884,72,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Loser Baby,Hazbin Hotel (Original Soundtrack),2/2/2024,175113,TRUE,72,0.528,1
+721,Andrew Underberg,,147884,70,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Hell’s Greatest Dad,Hazbin Hotel (Original Soundtrack),2/2/2024,133717,FALSE,70,0.827,1
+722,Andrew Underberg,,147884,70,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Stayed Gone,Hazbin Hotel (Original Soundtrack),2/2/2024,180475,TRUE,70,0.836,0
+723,Andrew Underberg,,147884,69,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Hell Is Forever,Hazbin Hotel (Original Soundtrack),2/2/2024,140653,TRUE,69,0.796,1
+724,Andrew Underberg,,147884,69,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Respectless,Hazbin Hotel (Original Soundtrack),2/2/2024,95682,TRUE,69,0.828,0
+725,Andrew Underberg,,147884,69,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Out For Love,Hazbin Hotel (Original Soundtrack),2/2/2024,90305,FALSE,69,0.875,0
+726,Andrew Underberg,,147884,68,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,You Didn’t Know,Hazbin Hotel (Original Soundtrack),2/2/2024,188677,TRUE,68,0.691,1
+727,Andrew Underberg,,147884,66,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,More Than Anything,Hazbin Hotel (Original Soundtrack),2/2/2024,193235,FALSE,66,0.454,1
+728,Andrew Underberg,,147884,65,https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay,Finale,Hazbin Hotel (Original Soundtrack),2/2/2024,230580,TRUE,65,0.673,1
+729,A,,13,0,https://open.spotify.com/artist/7mKVWnxeqaTh8UG8Tza9Fe,Geeked,Geeked,7/18/2024,70844,TRUE,0,0.4,1
+730,A,,13,0,https://open.spotify.com/artist/7mKVWnxeqaTh8UG8Tza9Fe,Yu & I,Yu & I,7/5/2024,111725,TRUE,0,0.506,1
+731,A,,29,17,https://open.spotify.com/artist/58Nl6IpOVaKdJ54jW2B5WL,Ladki Sun Mazhi,Tukaram,6/8/2012,54860,FALSE,17,0.146,1
+732,A,,29,13,https://open.spotify.com/artist/58Nl6IpOVaKdJ54jW2B5WL,For Jer,For Jer,2/23/2010,197973,FALSE,13,0.642,1
+733,A,,29,4,https://open.spotify.com/artist/58Nl6IpOVaKdJ54jW2B5WL,PhotoCopy Theme,Photocopy,9/16/2016,68112,FALSE,4,0.594,1
+734,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,74,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Chaleya,Jawan,9/5/2023,200373,FALSE,74,0.845,1
+735,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,76,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Chuttamalle ,"Chuttamalle (From ""Devara Part 1"")",8/5/2024,222063,FALSE,76,0.623,1
+736,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,71,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Kadharalz,Indian 2 (Original Motion Picture Soundtrack),6/1/2024,234023,FALSE,71,0.902,1
+737,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,71,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Fear Song  [Telugu],"Fear Song (From ""Devara Part 1"") [Telugu]",5/19/2024,195064,FALSE,71,0.897,1
+738,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,64,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Hukum - Thalaivar Alappara,Jailer (Original Motion Picture Soundtrack),7/28/2023,207647,FALSE,64,0.892,1
+739,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,59,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Naa Ready,Leo (Original Motion Picture Soundtrack),10/19/2023,248181,FALSE,59,0.805,1
+740,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,68,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,"Yaanji - From ""Vikram Vedha""","Yaanji (From ""Vikram Vedha"")",6/12/2017,270375,FALSE,68,0.624,0
+741,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,57,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Badass,Leo (Original Motion Picture Soundtrack),10/19/2023,229677,FALSE,57,0.872,1
+742,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,67,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,"Kannamma - From ""Ispade Rajavum Idhaya Raniyum""","Kannamma (From ""Ispade Rajavum Idhaya Raniyum"")",1/11/2019,256945,FALSE,67,0.695,1
+743,Anirudh Ravichander,"desi hip hop, filmi, tamil hip hop",31427977,67,https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O,Hayyoda ,"Hayyoda (From ""Jawan"")",8/14/2023,200142,FALSE,67,0.841,1
+744,Wolfgang Amadeus Mozart,"classical, classical era",5449802,58,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Requiem in D Minor K. 626: Sequence: VI. Lacrimosa dies illa,"Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",12/31/1995,199840,FALSE,58,0.101,0
+745,Wolfgang Amadeus Mozart,"classical, classical era",5449802,54,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,"Piano Sonata No. 16 in C Major K. 545 ""Sonata facile"": I. Allegro","Mozart: Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile""",5/22/2020,291666,FALSE,54,0.248,1
+746,Wolfgang Amadeus Mozart,"classical, classical era",5449802,61,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Piano Concerto No. 21 in C Major K. 467: II. Andante,"Mozart: Piano Concertos, Vol. 6",10/1/1995,433666,FALSE,61,0.0311,1
+747,Wolfgang Amadeus Mozart,"classical, classical era",5449802,58,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,"Serenade in B-Flat Major K. 361 ""Gran Partita"": III. Adagio","Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti",1/1/2001,330000,FALSE,58,0.037,1
+748,Wolfgang Amadeus Mozart,"classical, classical era",5449802,51,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Mozart: Fantasia in D Minor K. 397,Mozart,2/15/2020,319973,FALSE,51,0.0494,1
+749,Wolfgang Amadeus Mozart,"classical, classical era",5449802,57,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Symphony No. 25 in G Minor K. 183: I. Allegro con brio,Amadeus,1/1/2000,460026,FALSE,57,0.237,0
+750,Wolfgang Amadeus Mozart,"classical, classical era",5449802,57,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Requiem K. 626: Lacrimosa,Mozart: Requiem Realisations,4/8/2013,169666,FALSE,57,0.0898,0
+751,Wolfgang Amadeus Mozart,"classical, classical era",5449802,57,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Ave verum corpus K.618 ,MozartReworked,5/5/2023,195000,FALSE,57,0.00354,1
+752,Wolfgang Amadeus Mozart,"classical, classical era",5449802,49,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Mozart: Clarinet Concerto in A Major K. 622: II. Adagio,"Mozart: Flute Concerto No. 1, K. 313 - Flute and Harp Concerto, K. 299 & Clarinet Concerto, K. 622",4/1/2001,394560,FALSE,49,0.0115,1
+753,Wolfgang Amadeus Mozart,"classical, classical era",5449802,56,https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS,Adagio in E Major K. 261,Mozart: Works for Violin & Orchestra,1982,517360,FALSE,56,0.079,1
+754,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Max Explain,Lucky Stairs,11/19/2023,345694,FALSE,0,0.973,1
+755,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Sickness From Fitting In,Lucky Stairs,11/19/2023,247790,FALSE,0,0.915,1
+756,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Born Lacking,Lucky Stairs,11/19/2023,159349,FALSE,0,0.869,0
+757,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Gifts and Curses,Lucky Stairs,11/19/2023,266451,FALSE,0,0.886,0
+758,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Punished or Banished,Lucky Stairs,11/19/2023,198002,FALSE,0,0.996,0
+759,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Bad Feeling Now Good Feeling Later,Lucky Stairs,11/19/2023,307407,FALSE,0,0.998,1
+760,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Commentary Community,Lucky Stairs,11/19/2023,278236,FALSE,0,0.82,1
+761,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Severence package all in 1,Greetings to Planet Earth,3/22/2024,140347,FALSE,0,0.683,1
+762,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Friendly Fired,Lucky Stairs,11/19/2023,292507,FALSE,0,0.959,0
+763,A,,42,0,https://open.spotify.com/artist/0vRCGkgJdtoNRJy5lqgD2N,Low IQ W,Lucky Stairs,11/19/2023,272793,FALSE,0,0.996,0
+764,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,86,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Give Me Everything ,Planet Pit (Deluxe Version),6/17/2011,252306,FALSE,86,0.939,1
+765,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,84,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Time of Our Lives,Globalization,11/21/2014,229360,TRUE,84,0.802,1
+766,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,78,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,So Sick,In My Own Words,1/1/2006,207186,FALSE,78,0.574,1
+767,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,77,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Miss Independent,Year Of The Gentleman (Bonus Track Edition),1/1/2008,232000,FALSE,77,0.681,1
+768,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,75,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Because Of You,Because Of You,1/1/2007,266840,FALSE,75,0.538,0
+769,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,66,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Closer,Year Of The Gentleman (Bonus Track Edition),1/1/2008,234360,FALSE,66,0.754,0
+770,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,67,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,She Knows,Non-Fiction (Deluxe),1/20/2015,214725,TRUE,67,0.572,0
+771,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,71,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Sexy Love,In My Own Words,1/1/2006,220853,FALSE,71,0.513,1
+772,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,70,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Mad,Year Of The Gentleman (Bonus Track Edition),1/1/2008,254533,FALSE,70,0.65,1
+773,Ne-Yo,"dance pop, pop, r&b, urban contemporary",9033803,68,https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj,Let Me Love You ,R.E.D. (Deluxe Edition),1/1/2012,251626,FALSE,68,0.676,1
+774,a,,5,0,https://open.spotify.com/artist/1e9Md0vofNAvTEuVBeC7BT,Too Fast,H3LLB3NT,9/2/2023,187936,TRUE,0,0.467,0
+775,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,78,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,Under Control ,Motion,10/31/2014,184280,FALSE,78,0.915,1
+776,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,78,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,I Like It ,I Like It (with Nate Smith),7/12/2024,152349,FALSE,78,0.817,0
+777,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,77,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,Words ,Words (feat. Zara Larsson),4/22/2022,142677,FALSE,77,0.586,0
+778,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,71,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,Heroes ,Forever,5/22/2015,210013,FALSE,71,0.748,1
+779,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,72,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,Let Me Go ,"Let Me Go (with Alesso, Florida Georgia Line & watt)",9/8/2017,174800,FALSE,72,0.708,1
+780,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,60,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,If I Lose Myself - Alesso vs OneRepublic,Native,1/1/2014,214813,FALSE,60,0.782,1
+781,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,68,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,When I’m Gone ,When I’m Gone (with Katy Perry),12/29/2021,161266,FALSE,68,0.886,1
+782,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,56,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,Calling  - Radio Edit,EDM Hits,4/3/2020,205440,FALSE,56,0.85,0
+783,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,61,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,Going Dumb ,Going Dumb,3/19/2021,169506,FALSE,61,0.652,0
+784,Alesso,"dance pop, edm, pop, pop dance, progressive electro house",3923709,61,https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,REMEDY,REMEDY,8/31/2018,190295,FALSE,61,0.777,1
+785,A,,25,9,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Will You Still Love Me Tomorrow - Bachata,V olume 2,10/5/2021,196310,FALSE,9,0.49,1
+786,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,California Dreamin',Volume One,10/1/2021,132571,FALSE,0,0.686,0
+787,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Sunshine of Your Love - New Arrangement,V olume 2,10/5/2021,251167,FALSE,0,0.483,1
+788,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Quizás Quizás,Volume One,10/1/2021,158772,FALSE,0,0.66,1
+789,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Till There was You,Volume One,10/1/2021,155062,FALSE,0,0.609,1
+790,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,The Girl from Ocean Drive,Volume One,10/1/2021,227604,FALSE,0,0.451,1
+791,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Dos y Dos Son Cuatro,V olume 2,10/5/2021,243983,FALSE,0,0.776,0
+792,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Everybody Feeling,Volume One,10/1/2021,164127,FALSE,0,0.655,1
+793,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Can't Take my Eyes Off of You,Volume One,10/1/2021,234631,FALSE,0,0.422,1
+794,A,,25,0,https://open.spotify.com/artist/1jEW6dI75QSGs0OdInwQkk,Get Lucky - New Arrangement,V olume 2,10/5/2021,200855,FALSE,0,0.664,0
+795,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,84,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Santa,Santa,4/3/2024,193038,FALSE,84,0.709,0
+796,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,83,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Desesperados,VICE VERSA,12/10/2021,224996,TRUE,83,0.694,0
+797,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,83,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Cúrame,VICE VERSA,12/10/2021,164705,TRUE,83,0.625,0
+798,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,81,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Todo De Ti,VICE VERSA,12/10/2021,199604,TRUE,81,0.719,0
+799,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,80,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,LOKERA,SATURNO,1/24/2023,197101,TRUE,80,0.826,0
+800,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,81,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,DILUVIO,PLAYA SATURNO,7/7/2023,197052,TRUE,81,0.795,0
+801,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,80,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Tiroteo - Remix,Tiroteo (Remix),4/1/2021,321555,FALSE,80,0.522,1
+802,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,79,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,El Efecto,El Efecto,3/15/2019,217142,FALSE,79,0.781,0
+803,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,79,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Déjame Entrar,Déjame Entrar,7/18/2024,254705,TRUE,79,0.7,1
+804,Rauw Alejandro,"puerto rican pop, reggaeton, trap latino, urbano latino",22919287,79,https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq,Dile a El,Afrodisíaco,11/13/2020,209540,TRUE,79,0.587,0
+805,A,,13,0,https://open.spotify.com/artist/7F6Oetvjdo49TE0XcyNwtx,FL8XG8D,im8yrsold,1/8/2024,140800,FALSE,0,0.48,1
+806,A,,13,0,https://open.spotify.com/artist/7F6Oetvjdo49TE0XcyNwtx,24,im8yrsold,1/8/2024,89006,FALSE,0,0.725,1
+807,A,,13,0,https://open.spotify.com/artist/7F6Oetvjdo49TE0XcyNwtx,KC3K ,im8yrsold,1/8/2024,139867,FALSE,0,0.582,1
+808,A,,13,0,https://open.spotify.com/artist/7F6Oetvjdo49TE0XcyNwtx,Forget Ab It,Forget Ab It,2/8/2024,107552,FALSE,0,0.79,1
+809,A,,13,0,https://open.spotify.com/artist/7F6Oetvjdo49TE0XcyNwtx,21,21,4/1/2023,95500,FALSE,0,0.864,1
+810,A,,13,0,https://open.spotify.com/artist/7F6Oetvjdo49TE0XcyNwtx,IC8*NTf33LMY80DY,im8yrsold,1/8/2024,83478,FALSE,0,0.484,1
+811,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,86,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Give Me Everything ,Planet Pit (Deluxe Version),6/17/2011,252306,FALSE,86,0.939,1
+812,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,29,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Hey Mama  - Afrojack Remix,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",5/12/2015,197040,FALSE,29,0.793,1
+813,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,69,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Raving,Raving,8/2/2024,138951,TRUE,69,0.959,1
+814,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,66,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,FVCK,PERO NO TE ENAMORES,7/25/2024,186116,TRUE,66,0.699,0
+815,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,64,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Light It Up ,Light It Up (feat. MC Ambush),8/16/2024,156146,FALSE,64,0.929,1
+816,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,63,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,2 The Moon,2 The Moon,6/7/2024,185282,FALSE,63,0.904,1
+817,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,49,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Maldito Alcohol ,I Am Armando - Armando Reloaded,2010,201320,FALSE,49,0.434,1
+818,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,59,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Ten Feet Tall,Forget The World (Deluxe),1/1/2014,229149,FALSE,59,0.861,1
+819,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,45,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Take Over Control  [feat. Eva Simons],Take over Control (feat. Eva Simons),1/4/2011,210293,FALSE,45,0.806,0
+820,AFROJACK,"big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house",3922609,56,https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz,Sad ,Sad (feat. Afrojack),8/30/2019,161280,FALSE,56,0.716,0
+821,A,,138,0,https://open.spotify.com/artist/0JM6Dyo1DMdx2RYbH1Hpmn,2008,2008,7/17/2020,294707,FALSE,0,0.367,1
+822,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,73,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Foolish,Ashanti,1/1/2002,227386,TRUE,73,0.695,1
+823,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,69,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Rock Wit U ,Chapter II,1/1/2003,209120,FALSE,69,0.797,0
+824,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,65,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Body On Me,The Declaration,1/1/2008,200720,FALSE,65,0.623,0
+825,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,65,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Unfoolish,Ashanti,1/1/2002,194160,TRUE,65,0.692,0
+826,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,58,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Baby ,Close To Home,8/19/2022,177733,TRUE,58,0.813,0
+827,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,60,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Happy,Ashanti,1/1/2002,262226,TRUE,60,0.515,0
+828,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,55,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Baby,Ashanti,1/1/2002,265706,TRUE,55,0.58,0
+829,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,53,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Only U - No Intro,Concrete Rose,1/1/2004,186306,FALSE,53,0.621,0
+830,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,52,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Rain On Me,Chapter II,1/1/2003,297960,FALSE,52,0.699,0
+831,Ashanti,"dance pop, hip pop, r&b, urban contemporary",3145769,50,https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83,Wockesha  - Remix,A Gangsta’s Pain: Reloaded,10/22/2021,217880,TRUE,50,0.557,0
+832,A,,46,0,https://open.spotify.com/artist/1XjuuEr9mEVgOiMETkmTc9,Med c,Med c,12/15/2017,301016,FALSE,0,0.25,1
+833,A,,46,0,https://open.spotify.com/artist/1XjuuEr9mEVgOiMETkmTc9,KALO KA MAHAKAL,KALO KA MAHAKAL,6/6/2024,197299,FALSE,0,0.898,1
+834,A,,46,0,https://open.spotify.com/artist/1XjuuEr9mEVgOiMETkmTc9,Med b,Med b,7/13/2017,240000,FALSE,0,0.596,1
+835,A,,46,0,https://open.spotify.com/artist/1XjuuEr9mEVgOiMETkmTc9,Up,Up,3/1/2024,168960,FALSE,0,0.642,0
+836,A,,46,0,https://open.spotify.com/artist/1XjuuEr9mEVgOiMETkmTc9,Med b - Remymix,Med b (Remymix),10/11/2017,336000,FALSE,0,0.614,1
+837,Agust D,k-rap,14816559,85,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,Haegeum,D-DAY,4/21/2023,168926,FALSE,85,0.837,1
+838,Agust D,k-rap,14816559,79,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,Daechwita,D-2,5/22/2020,225668,TRUE,79,0.827,1
+839,Agust D,k-rap,14816559,74,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,Interlude : Dawn,D-DAY,4/21/2023,105139,FALSE,74,0.309,0
+840,Agust D,k-rap,14816559,68,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,People Pt.2 ,D-DAY,4/21/2023,213995,FALSE,68,0.574,0
+841,Agust D,k-rap,14816559,70,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,28,D-2,5/22/2020,133673,TRUE,70,0.645,0
+842,Agust D,k-rap,14816559,69,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,AMYGDALA,D-DAY,4/21/2023,251533,FALSE,69,0.769,1
+843,Agust D,k-rap,14816559,69,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,D-Day,D-DAY,4/21/2023,211373,TRUE,69,0.878,0
+844,Agust D,k-rap,14816559,69,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,Snooze ,D-DAY,4/21/2023,264760,TRUE,69,0.777,0
+845,Agust D,k-rap,14816559,68,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,Life Goes On,D-DAY,4/21/2023,197638,FALSE,68,0.733,1
+846,Agust D,k-rap,14816559,67,https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML,People,D-2,5/22/2020,197000,FALSE,67,0.682,1
+847,A,,487,0,https://open.spotify.com/artist/0gLaNyHiFTc6SwZY2Cd7LG,OJALÁ,OJALÁ,5/21/2022,140930,FALSE,0,0.479,1
+848,A,,487,0,https://open.spotify.com/artist/0gLaNyHiFTc6SwZY2Cd7LG,Traveller,Traveller,5/28/2021,280000,FALSE,0,0.373,1
+849,A,,487,0,https://open.spotify.com/artist/0gLaNyHiFTc6SwZY2Cd7LG,verte / Rodriguezzz,verte / Rodriguezzz,12/25/2022,97450,TRUE,0,0.257,0
+850,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,Due Time,The Broken Artist,3/31/2018,185390,FALSE,0,0.935,0
+851,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,Ta Life,The Broken Artist,3/31/2018,166452,FALSE,0,0.868,1
+852,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,Collective Thought,The Broken Artist,3/31/2018,208195,FALSE,0,0.719,0
+853,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,Been Thinkin,The Broken Artist,3/31/2018,181028,FALSE,0,0.523,1
+854,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,Perspective,The Broken Artist,3/31/2018,97253,FALSE,0,0.668,0
+855,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,25,The Broken Artist,3/31/2018,256887,FALSE,0,0.649,1
+856,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,B.T.D.T.,The Broken Artist,3/31/2018,241110,FALSE,0,0.827,1
+857,A,,36,0,https://open.spotify.com/artist/1aO7pETQuUwZYCimr0SATi,If Only,The Broken Artist,3/31/2018,181159,FALSE,0,0.538,1
+858,Alabama,"contemporary country, country, country road, country rock",1435685,71,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,I'm in a Hurry ,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,1980,168813,FALSE,71,0.72,1
+859,Alabama,"contemporary country, country, country road, country rock",1435685,72,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Song of the South,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,1980,190800,FALSE,72,0.633,1
+860,Alabama,"contemporary country, country, country road, country rock",1435685,61,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Mountain Music,The Essential Alabama 3.0,1980,217986,FALSE,61,0.55,1
+861,Alabama,"contemporary country, country, country road, country rock",1435685,64,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Dixieland Delight,The Closer You Get...,1983,322093,FALSE,64,0.414,1
+862,Alabama,"contemporary country, country, country road, country rock",1435685,57,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,If You're Gonna Play in Texas ,Alabama Live,1980,212666,FALSE,57,0.645,1
+863,Alabama,"contemporary country, country, country road, country rock",1435685,56,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,High Cotton,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,1980,180320,FALSE,56,0.581,1
+864,Alabama,"contemporary country, country, country road, country rock",1435685,54,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Born Country,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,1980,196866,FALSE,54,0.52,1
+865,Alabama,"contemporary country, country, country road, country rock",1435685,56,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Dixieland Delight - Single Edit,The Essential Alabama 3.0,1980,236426,FALSE,56,0.405,1
+866,Alabama,"contemporary country, country, country road, country rock",1435685,51,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Roll On ,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,1980,264973,FALSE,51,0.664,1
+867,Alabama,"contemporary country, country, country road, country rock",1435685,53,https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC,Okie From Muskogee - Live,Okie From Muskogee (Live),11/12/2020,95746,FALSE,53,0.928,1
+868,A,,123,0,https://open.spotify.com/artist/43fMVN4E3K3WYPHAfX15E0,Dreams,Lodestar,2/8/2019,137872,TRUE,0,0.509,0
+869,A,,123,0,https://open.spotify.com/artist/43fMVN4E3K3WYPHAfX15E0,Mamacita,Lodestar,2/8/2019,144101,TRUE,0,0.214,0
+870,A,,123,0,https://open.spotify.com/artist/43fMVN4E3K3WYPHAfX15E0,Flip,Lodestar,2/8/2019,139500,TRUE,0,0.34,0
+871,A,,123,0,https://open.spotify.com/artist/43fMVN4E3K3WYPHAfX15E0,Push,Lodestar,2/8/2019,143936,TRUE,0,0.558,0
+872,A,,123,0,https://open.spotify.com/artist/43fMVN4E3K3WYPHAfX15E0,Time,Time,3/25/2019,179853,TRUE,0,0.523,1
+873,A,,123,0,https://open.spotify.com/artist/43fMVN4E3K3WYPHAfX15E0,Revenge,Lodestar,2/8/2019,236307,TRUE,0,0.375,0
+874,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,76,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,Scars To Your Beautiful,Know-It-All,11/13/2015,230240,FALSE,76,0.739,1
+875,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,74,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,Stay,Stay,2/23/2017,210090,FALSE,74,0.622,0
+876,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,69,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,Here,Know-It-All,11/13/2015,199453,FALSE,69,0.822,1
+877,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,63,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,How Far I'll Go - Alessia Cara Version,Moana - Original Motion Picture Soundtrack/Deluxe Edition,11/18/2016,175506,FALSE,63,0.54,1
+878,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,65,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,Out Of Love,The Pains Of Growing,11/30/2018,227693,FALSE,65,0.267,1
+879,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,61,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,Wild Things,Know-It-All,11/13/2015,188493,FALSE,61,0.626,0
+880,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,61,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,Dead Man,Dead Man,7/19/2024,203343,FALSE,61,0.765,0
+881,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,58,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,I'm Like A Bird - Recorded at Spotify Studios NYC,Spotify Singles,4/24/2019,219960,FALSE,58,0.639,1
+882,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,56,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,"I Choose - From The Netflix Original Film ""The Willoughbys""",I Choose (From The Netflix Original Film The Willoughbys),4/3/2020,217347,FALSE,56,0.631,1
+883,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",11810442,55,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,River Of Tears,Know-It-All (Deluxe),3/11/2016,254506,FALSE,55,0.373,1
+884,A,,19,0,https://open.spotify.com/artist/0VeuhtyLJhzeGV4ht7EstC,Velours,"Rare Electro-Industrial Songs, Vol. 2",2020,128869,FALSE,0,0.383,1
+885,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,77,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,A Horse with No Name,America,1972,252239,FALSE,77,0.507,0
+886,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,73,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,Sister Golden Hair,Hearts,1975,199573,FALSE,73,0.546,1
+887,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,72,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,Ventura Highway,Homecoming,1/1/1972,211680,FALSE,72,0.761,1
+888,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,68,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,Lonely People,Holiday,1974,150226,FALSE,68,0.473,1
+889,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,64,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,You Can Do Magic,View From The Ground,1/1/1982,237466,FALSE,64,0.568,0
+890,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,62,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,Tin Man,Holiday,1974,209866,FALSE,62,0.531,1
+891,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,60,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,All My Life,Silent Letter,1/1/1979,183826,FALSE,60,0.337,1
+892,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,58,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,Riverside,America,1972,181093,FALSE,58,0.522,0
+893,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,56,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,I Need You,America,1972,183186,FALSE,56,0.472,1
+894,America,"album rock, classic rock, folk rock, mellow gold, soft rock",1779973,54,https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo,Don't Cross the River,Homecoming,1/1/1972,149866,FALSE,54,0.726,1
+895,A,,3,0,https://open.spotify.com/artist/0zFpo41RFyTVcvHP3bubRl,My Universe,My Universe,4/26/2024,238750,FALSE,0,0.607,1
+896,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,77,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Don't Give Up On Me,Naïve,7/26/2019,196187,FALSE,77,0.537,0
+897,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,72,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Honey I'm Good,Magazines Or Novels,8/5/2014,199263,FALSE,72,0.802,1
+898,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,69,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Fresh Eyes,The Good Parts,12/1/2017,198001,FALSE,69,0.56,1
+899,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,66,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Keep Your Head Up,Andy Grammer,6/14/2011,190493,FALSE,66,0.786,1
+900,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,64,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Fine By Me,Andy Grammer,6/14/2011,172813,FALSE,64,0.792,1
+901,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,59,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,These Tears,These Tears,1/13/2023,169656,FALSE,59,0.485,1
+902,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,58,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Lease On Life,Lease On Life,6/28/2021,168162,FALSE,58,0.701,1
+903,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,57,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,I Do ,I Do (feat. Maddie & Tae),8/2/2024,195428,FALSE,57,0.768,1
+904,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,56,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Best of You ,Best of You (feat. Elle King),2/7/2020,185393,FALSE,56,0.623,1
+905,Andy Grammer,"neo mellow, post-teen pop, viral pop",1232633,55,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,Saved My Life ,Saved My Life (with R3HAB),5/6/2022,174842,FALSE,55,0.648,1
+906,A,,87,4,https://open.spotify.com/artist/1dIc8SElekAIf7zZUc3e1y,MY MIND,MY MIND,6/7/2022,209687,FALSE,4,0.467,0
+907,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,71,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,Dirty Little Secret,Move Along,1/1/2005,193653,FALSE,71,0.954,1
+908,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,71,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,Gives You Hell,When The World Comes Down,1/1/2008,213106,FALSE,71,0.691,1
+909,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,69,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,Move Along,Move Along,1/1/2005,238880,FALSE,69,0.916,1
+910,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,66,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,Swing Swing,The All-American Rejects,10/15/2002,233266,FALSE,66,0.717,1
+911,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,59,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,It Ends Tonight,Move Along,1/1/2005,244826,FALSE,59,0.636,1
+912,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,51,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,I Wanna,When The World Comes Down,1/1/2008,208600,FALSE,51,0.913,1
+913,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,50,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,My Paper Heart,The All-American Rejects,10/15/2002,228866,FALSE,50,0.849,1
+914,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,41,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,Stab My Back,Move Along,1/1/2005,189306,FALSE,41,0.874,0
+915,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,46,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,The Last Song,The All-American Rejects,10/15/2002,300386,FALSE,46,0.879,1
+916,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",2666769,40,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT,Top Of The World,Move Along,1/1/2005,203720,FALSE,40,0.947,0
+917,A,,8,0,https://open.spotify.com/artist/3dkzFPQ0RzpI6jFjPXaqki,Look New,Look New,5/7/2021,265299,FALSE,0,0.613,0
+918,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,71,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,On & On,Feel Again,3/30/2023,170578,FALSE,71,0.933,1
+919,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,72,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,This Is What It Feels Like,Intense,5/3/2013,204360,FALSE,72,0.833,1
+920,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,66,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,Blah Blah Blah,Balance,10/25/2019,183518,FALSE,66,0.963,0
+921,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,68,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,In The Dark,In The Dark,7/12/2024,148930,FALSE,68,0.898,1
+922,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,64,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,In And Out Of Love,In And Out Of Love,6/28/2024,226621,FALSE,64,0.777,0
+923,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,65,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,No Fun,Feel Again,3/30/2023,130412,FALSE,65,0.904,0
+924,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,66,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,Larger Than Life,Larger Than Life,5/31/2024,175546,FALSE,66,0.943,1
+925,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,61,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,In And Out Of Love,In And Out of Love,8/4/2008,181680,FALSE,61,0.705,0
+926,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,64,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,Easy To Love,Feel Again,3/30/2023,151820,FALSE,64,0.78,1
+927,Armin van Buuren,"dutch house, dutch trance, edm, pop dance, progressive house, trance",4384944,63,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,Great Spirit,Great Spirit,12/12/2016,215773,FALSE,63,0.911,1
+928,A,,27,0,https://open.spotify.com/artist/1t0QSnG1mYs88ahQmAgeuK,Never Ask Games,Slow Porn presente Prise de Vue #1,2/3/2017,258400,FALSE,0,0.435,0
+929,Alvaro Diaz,"trap boricua, urbano latino",842057,80,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,GATITAS SANDUNGUERAS VOL.1,SAYONARA,5/17/2024,131853,FALSE,80,0.842,1
+930,Alvaro Diaz,"trap boricua, urbano latino",842057,73,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,Problemón,Felicilandia,10/29/2021,192613,FALSE,73,0.739,1
+931,Alvaro Diaz,"trap boricua, urbano latino",842057,66,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,BYAK,SAYONARA,5/17/2024,216346,FALSE,66,0.697,1
+932,Alvaro Diaz,"trap boricua, urbano latino",842057,70,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,Llori Pari,Felicilandia,10/29/2021,215026,FALSE,70,0.573,1
+933,Alvaro Diaz,"trap boricua, urbano latino",842057,67,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,QUIZÁS SI QUIZÁS NO,SAYONARA,5/17/2024,203213,FALSE,67,0.767,0
+934,Alvaro Diaz,"trap boricua, urbano latino",842057,67,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,SIN PODERES,SAYONARA,5/17/2024,206800,FALSE,67,0.658,1
+935,Alvaro Diaz,"trap boricua, urbano latino",842057,67,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,MAMI 100PRE SABE ,SAYONARA,5/17/2024,137933,FALSE,67,0.329,1
+936,Alvaro Diaz,"trap boricua, urbano latino",842057,67,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,A MI NOMBRE,SAYONARA,5/17/2024,208346,FALSE,67,0.582,1
+937,Alvaro Diaz,"trap boricua, urbano latino",842057,68,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,PARANORMAL,DATA,6/29/2023,197935,FALSE,68,0.89,1
+938,Alvaro Diaz,"trap boricua, urbano latino",842057,65,https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr,1000CANCIONES,SAYONARA,5/17/2024,246200,FALSE,65,0.827,1
+939,A,,37,0,https://open.spotify.com/artist/35qsRBNNhRMICiuATSskko,Blue Trees,Blue Trees,3/28/2021,102090,FALSE,0,0.176,0
+940,A,,37,0,https://open.spotify.com/artist/35qsRBNNhRMICiuATSskko,It Could Be,It Could Be,8/14/2024,146573,FALSE,0,0.492,1
+941,Ado,japanese teen pop,4857566,72,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,唱,"Ado ""Ready For My Show Playlist""",2/6/2024,192653,FALSE,72,0.975,0
+942,Ado,japanese teen pop,4857566,67,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,Usseewa,Kyougen,1/26/2022,206893,FALSE,67,0.976,0
+943,Ado,japanese teen pop,4857566,65,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,New Genesis,UTA'S SONGS ONE PIECE FILM RED,8/10/2022,226813,FALSE,65,0.987,1
+944,Ado,japanese teen pop,4857566,62,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,RuLe,Zanmu,7/9/2024,197853,FALSE,62,0.989,0
+945,Ado,japanese teen pop,4857566,64,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,Backlight,UTA'S SONGS ONE PIECE FILM RED,8/10/2022,237666,FALSE,64,0.896,0
+946,Ado,japanese teen pop,4857566,62,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,Odo,Kyougen,1/26/2022,210346,FALSE,62,0.962,1
+947,Ado,japanese teen pop,4857566,57,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,MIRROR,Zanmu,7/9/2024,180213,FALSE,57,0.822,0
+948,Ado,japanese teen pop,4857566,67,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,Aishite Aishite Aishite,Ado's Utattemita Album,12/13/2023,258372,FALSE,67,0.877,1
+949,Ado,japanese teen pop,4857566,58,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,I’m invincible,UTA'S SONGS ONE PIECE FILM RED,8/10/2022,257079,FALSE,58,0.864,1
+950,Ado,japanese teen pop,4857566,61,https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl,クラクラ,"Ado ""Ready For My Show Playlist""",2/6/2024,191105,FALSE,61,0.958,1
+951,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,69,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,Are You That Somebody,I Care 4 U,12/10/2002,265666,FALSE,69,0.657,0
+952,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,67,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,Try Again,Aaliyah,7/7/2001,284640,FALSE,67,0.662,0
+953,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,68,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,One In A Million,One In A Million,8/27/1996,270760,FALSE,68,0.508,0
+954,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,67,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,Rock The Boat,Aaliyah,7/7/2001,274733,FALSE,67,0.725,1
+955,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,63,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,I Don't Wanna,Ultimate Aaliyah,5/10/2005,256560,FALSE,63,0.514,0
+956,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,62,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,At Your Best ,Age Ain't Nothing But A Number,5/22/1994,291400,FALSE,62,0.441,0
+957,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,61,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,Age Ain't Nothing But a Number,Age Ain't Nothing But A Number,5/22/1994,253960,FALSE,61,0.532,0
+958,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,61,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,Miss You,I Care 4 U,12/10/2002,245226,FALSE,61,0.338,1
+959,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,59,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,Back & Forth,Age Ain't Nothing But A Number,5/22/1994,231093,FALSE,59,0.727,1
+960,Aaliyah,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",4425212,60,https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4,More Than A Woman,Aaliyah,7/7/2001,229866,FALSE,60,0.649,0
+961,A,,31,1,https://open.spotify.com/artist/6h0Qo2M4iEJBo78Kbcw3nF,The Time Passes Fast - Original Mix,The Time Passes Fast,7/2/2018,465083,FALSE,1,0.484,1
+962,A,,31,0,https://open.spotify.com/artist/6h0Qo2M4iEJBo78Kbcw3nF,漂い,漂い,4/9/2023,254002,FALSE,0,0.499,0
+963,A,,31,0,https://open.spotify.com/artist/6h0Qo2M4iEJBo78Kbcw3nF,A Cat Attic Attack,Keith Emerson at the Movies,1/1/2005,191026,FALSE,0,0.36,1
+964,A,,31,0,https://open.spotify.com/artist/6h0Qo2M4iEJBo78Kbcw3nF,Tablado,Tablado,5/19/2020,186549,TRUE,0,0.715,1
+965,A,,31,0,https://open.spotify.com/artist/6h0Qo2M4iEJBo78Kbcw3nF,BREAK ALL DAY! - UKULELE,「ナースのお仕事 3」 (＋BEST オリジナル・サウンドトラック),6/28/2000,116133,FALSE,0,0.239,0
+966,A,,31,0,https://open.spotify.com/artist/6h0Qo2M4iEJBo78Kbcw3nF,瘢痕 ,And The Dawn Comes Sneaking Up When It Thinks I'm Not Looking,5/28/2022,136000,FALSE,0,0.979,0
+967,Novo Amor,"ambient folk, indie folk",1179457,77,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Anchor,Bathing Beach,5/26/2017,257533,FALSE,77,0.407,1
+968,Novo Amor,"ambient folk, indie folk",1179457,73,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,State Lines,Birthplace,10/19/2018,208653,FALSE,73,0.31,1
+969,Novo Amor,"ambient folk, indie folk",1179457,67,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Ontario,Heiress,11/10/2017,192866,FALSE,67,0.223,1
+970,Novo Amor,"ambient folk, indie folk",1179457,66,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Repeat Until Death,Birthplace,10/19/2018,234080,FALSE,66,0.15,1
+971,Novo Amor,"ambient folk, indie folk",1179457,66,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Carry You,Bathing Beach,5/26/2017,273106,FALSE,66,0.397,1
+972,Novo Amor,"ambient folk, indie folk",1179457,65,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Haven ,Haven (from Life Is Strange),3/18/2021,172500,FALSE,65,0.261,1
+973,Novo Amor,"ambient folk, indie folk",1179457,65,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Euphor,Heiress,11/10/2017,243466,FALSE,65,0.284,0
+974,Novo Amor,"ambient folk, indie folk",1179457,64,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,From Gold,"Woodgate, NY",3/31/2014,214335,FALSE,64,0.433,1
+975,Novo Amor,"ambient folk, indie folk",1179457,63,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Keep Me,"Cannot Be, Whatsoever",11/6/2020,194560,FALSE,63,0.131,1
+976,Novo Amor,"ambient folk, indie folk",1179457,63,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,Alps,Alps,4/15/2016,194160,FALSE,63,0.311,1
+977,Ã,,10,0,https://open.spotify.com/artist/5FnG9lLegyiFtLtZG2XLQ4,ВСПОМНИ,NEWLEVEL,7/11/2024,148761,FALSE,0,0.674,1
+978,Gracie Abrams,alt z,2232980,87,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,I Love You I'm Sorry,The Secret of Us,6/21/2024,157146,TRUE,87,0.406,1
+979,Gracie Abrams,alt z,2232980,85,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,Close To You,The Secret of Us,6/21/2024,225973,FALSE,85,0.727,1
+980,Gracie Abrams,alt z,2232980,82,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,I miss you I’m sorry,minor,7/14/2020,167538,FALSE,82,0.455,1
+981,Gracie Abrams,alt z,2232980,82,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,us. ,The Secret of Us,6/21/2024,242666,TRUE,82,0.553,1
+982,Gracie Abrams,alt z,2232980,80,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,Risk,The Secret of Us,6/21/2024,191586,FALSE,80,0.496,0
+983,Gracie Abrams,alt z,2232980,76,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,Blowing Smoke,The Secret of Us,6/21/2024,232280,FALSE,76,0.634,1
+984,Gracie Abrams,alt z,2232980,75,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,Tough Love,The Secret of Us,6/21/2024,169146,TRUE,75,0.716,1
+985,Gracie Abrams,alt z,2232980,74,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,Mess It Up,Mess It Up,5/7/2021,171280,FALSE,74,0.582,1
+986,Gracie Abrams,alt z,2232980,73,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,Free Now,The Secret of Us,6/21/2024,214080,FALSE,73,0.387,1
+987,Gracie Abrams,alt z,2232980,73,https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5,I know it won't work,Good Riddance (Deluxe),6/16/2023,245629,FALSE,73,0.584,0
+988,A,,8,0,https://open.spotify.com/artist/1XUoc8FGUmAQk514iogOuZ,3.17,Mirror 1,11/1/2021,197875,FALSE,0,0.242,1
+989,A,,8,0,https://open.spotify.com/artist/1XUoc8FGUmAQk514iogOuZ,3.18,Mirror 1,11/1/2021,198000,FALSE,0,0.277,1
+990,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,84,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,Hey Ya!,Speakerboxxx/The Love Below,2003,235213,FALSE,84,0.974,0
+991,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,83,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,Ms. Jackson,Stankonia,10/31/2000,270506,TRUE,83,0.806,0
+992,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,73,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,So Fresh So Clean,Stankonia,10/31/2000,240026,TRUE,73,0.64,0
+993,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,71,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,The Way You Move ,Speakerboxxx/The Love Below,2003,234000,TRUE,71,0.597,0
+994,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,70,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,ATLiens,ATLiens,8/27/1996,230693,TRUE,70,0.734,0
+995,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,69,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,Roses,Speakerboxxx/The Love Below,2003,369573,TRUE,69,0.708,1
+996,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,64,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,Rosa Parks,Aquemini,9/29/1998,324373,TRUE,64,0.701,0
+997,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,60,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,B.O.B. - Bombs Over Baghdad,Stankonia,10/31/2000,304226,TRUE,60,0.978,1
+998,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,59,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,Da Art of Storytellin' ,Aquemini,9/29/1998,222653,TRUE,59,0.856,1
+999,Outkast,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",2769972,58,https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7,Player's Ball,Southernplayalisticadillacmuzik,4/26/1994,261266,TRUE,58,0.764,1
